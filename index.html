@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KIRA</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="loading-screen" id="loadingScreen">
+    <div class="bg"></div>
+    <div class="contrastadjust"></div>
+    <div class="matrix"></div>
+    <div class="matrix2"></div>
+    <div class="matrix3"></div>
+    <div class="loading-content">
+      <img src="img/cross.png" alt="cross" class="cross">
+      <button class="enter-btn" id="enterBtn">CLICK TO ENTER</button>
+    </div>
+  </div>
+
+  <div class="roster" id="roster">
+    <div class="contrastadjust"></div>
+    <div class="matrix"></div>
+    <div class="matrix2"></div>
+    <div class="matrix3"></div>
+    <div class="roster-box">
+      <div class="logo-break">
+        <img src="img/deathnotelogo.png" alt="death note logo">
+      </div>
+      <img src="img/small.png" alt="small" class="roster-small">
+      <div class="member-grid">
+        <div class="member">
+          <div class="member-box"><img src="img/kwaken.png" alt="kraken"></div>
+          <span class="member-name">kraken</span>
+        </div>
+        <div class="member">
+          <div class="member-box"></div>
+          <span class="member-name">interpol</span>
+        </div>
+        <div class="member">
+          <div class="member-box"><img src="img/$.png" alt="$"></div>
+          <span class="member-name">$</span>
+        </div>
+        <div class="member">
+          <div class="member-box"><img src="img/mirv.jpg" alt="mirva"></div>
+          <span class="member-name">mirva</span>
+        </div>
+        <div class="member">
+          <div class="member-box"></div>
+          <span class="member-name">abel</span>
+        </div>
+        <div class="member">
+          <div class="member-box"><img src="img/z.jpg" alt="?"></div>
+          <span class="member-name">?</span>
+        </div>
+        <div class="member">
+          <div class="member-box"></div>
+          <span class="member-name">savant</span>
+        </div>
+      </div>
+      <div class="roster-actions">
+        <button class="archives-btn" id="archivesBtn">ARCHIVES</button>
+        <button class="archives-btn" id="imgsBtn">IMGS</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="now-playing" id="nowPlaying" hidden>
+    <span class="np-text" id="nowPlayingText"></span>
+  </div>
+
+  <audio id="bgMusic" loop></audio>
+
+  <div class="imgs" id="imgs">
+    <div class="contrastadjust"></div>
+    <div class="matrix"></div>
+    <div class="matrix2"></div>
+    <div class="matrix3"></div>
+    <div class="archives-box">
+      <div class="logo-break">
+        <img src="img/deathnotelogo.png" alt="death note logo">
+      </div>
+      <div class="archives-scroll">
+        <div class="file-tree" id="fileTree"></div>
+      </div>
+      <button class="archives-btn back" id="imgsBack">&larr; return</button>
+    </div>
+  </div>
+
+  <div class="archives" id="archives">
+    <div class="contrastadjust"></div>
+    <div class="matrix"></div>
+    <div class="matrix2"></div>
+    <div class="matrix3"></div>
+    <div class="archives-box">
+      <div class="logo-break">
+        <img src="img/deathnotelogo.png" alt="death note logo">
+      </div>
+      <div class="archives-scroll">
+        <div class="archives-list" id="archivesList"></div>
+      </div>
+      <button class="archives-btn back" id="backBtn">&larr; return</button>
+    </div>
+  </div>
+
+  <div class="viewer" id="viewer">
+    <div class="viewer-box">
+      <div class="viewer-top">
+        <div class="viewer-title" id="viewerTitle"></div>
+        <div class="viewer-zoom">
+          <button class="zoom-btn" id="zoomOut">&minus;</button>
+          <button class="zoom-btn" id="zoomIn">+</button>
+        </div>
+      </div>
+      <div class="viewer-date" id="viewerDate"></div>
+      <div class="viewer-content" id="viewerContent"></div>
+      <button class="archives-btn back" id="viewerBack">&larr; return</button>
+    </div>
+  </div>
+
+  <button class="hidden-btn" id="hiddenBtn" aria-label="hidden button"></button>
+  <div class="flash" id="flash"><img src="img/kz.jpg" alt=""></div>
+  <div class="chaos" id="chaos" hidden>
+    <video id="chaosVideo" src="img/VIDEO.mp4" loop playsinline></video>
+    <img src="img/kawaken.gif" alt="" id="chaosGif">
+  </div>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' })
+        .then((reg) => {
+          reg.update();
+          if (!navigator.serviceWorker.controller) {
+            const t = Date.now();
+            window.addEventListener('load', () => {
+              if (Date.now() - t < 500) window.location.reload();
+            });
+          }
+        })
+        .catch((err) => console.error('sw reg failed:', err));
+    } else {
+      console.warn('sw`s not supported in this browser.');
+    }
+  </script>
+  <script src="js/imgsData.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
