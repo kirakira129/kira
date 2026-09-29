@@ -9,6 +9,7 @@ const memberSongs = {
   'kraken': { file: 'sounds/gummybear.mp3', title: 'The Gummy Bear Song', artist: 'gummibar' },
   '?': { file: 'sounds/yen.mp3', title: 'Yung Emo Ni**a', artist: 'Lil Tracy' },
   'abel': { file: 'sounds/freedocantdoit.mp3', title: 'free do/cant do it', artist: 'summrs' },
+  'interpol': { file: 'sounds/entersandman.mp3', title: 'enter sandman', artist: 'metallica' },
 };
 
 const bgAudio = document.getElementById('bgMusic');
