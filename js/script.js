@@ -1,6 +1,6 @@
 const archivesData = [
   { title: 'soon', date: '2026-01-01', file: 'archives/a.txt' },
-  { title: 'soon', date: '2026-02-14', file: 'archives/b.txt' },
+  { title: 'Profit', date: 'Aug 14, 2026', file: 'archives/profit.txt' },
 ];
 
 const memberSongs = {
