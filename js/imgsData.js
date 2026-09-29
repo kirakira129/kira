@@ -18,6 +18,10 @@ const IMG_TREE = {
     'patriot.jpg': null,
     'rip_gramps.jpg': null,
     'uncle.png': null,
+    'matt.png': null,
+    'ozzy.png': null,
+    'penny.png': null,
+    'jessica.png': null,
   },
   profit: {
     'profitface.png': null,
