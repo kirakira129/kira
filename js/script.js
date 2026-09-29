@@ -8,6 +8,7 @@ const memberSongs = {
   'mirva': { file: 'sounds/hope.mp3', title: 'do as you please just dont hurt me again', artist: 'lostallhope2010' },
   'kraken': { file: 'sounds/gummybear.mp3', title: 'The Gummy Bear Song', artist: 'gummibar' },
   '?': { file: 'sounds/yen.mp3', title: 'Yung Emo Ni**a', artist: 'Lil Tracy' },
+  'abel': { file: 'sounds/freedocantdoit.mp3', title: 'free do/cant do it', artist: 'summrs' },
 };
 
 const bgAudio = document.getElementById('bgMusic');
