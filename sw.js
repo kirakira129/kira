@@ -2,7 +2,7 @@ const IMAGE_EXTS = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.bmp', '.avif'];
 const TEXT_EXTS = ['.json', '.txt', '.md', '.csv', '.log', '.xml'];
 const PDF_EXTS = ['.pdf'];
 const ALL_EXTS = [...IMAGE_EXTS, ...TEXT_EXTS, ...PDF_EXTS];
-const VERSION = 'v5';
+const VERSION = 'v6';
 
 function relPrefix(pathname) {
   const segs = pathname.split('/').filter(Boolean);
@@ -121,7 +121,9 @@ body {
 
 async function loadTreeData() {
   try {
-    const res = await fetch('./js/imgsData.js', { cache: 'no-store' });
+    const dataUrl = new URL('./js/imgsData.js', self.registration.scope);
+    const res = await fetch(dataUrl, { cache: 'no-store' });
+    if (!res.ok) return {};
     const text = await res.text();
     const cleaned = text.replace(/^const\s+IMG_TREE\s*=\s*/, '');
     const data = Function('return ' + cleaned)();
@@ -271,9 +273,8 @@ self.addEventListener('fetch', (event) => {
     event.respondWith(
       loadTreeData().then((tree) => {
         const node = resolveFolder(tree, segs);
-        if (!node) return fetch(event.request);
         const folderName = segs[segs.length - 1];
-        const listHtml = treeListHtml(node);
+        const listHtml = node ? treeListHtml(node) : '';
         return new Response(formatTreePage(event.request.url, folderName, listHtml), {
           headers: { 'Content-Type': 'text/html; charset=utf-8' },
         });
