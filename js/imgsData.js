@@ -23,6 +23,13 @@ const IMG_TREE = {
     'penny.png': null,
     'jessica.png': null,
     'mom_breaches.txt': null,
+    'school_mail.txt': null,
+    'sweatbtw4.txt': null,
+    'racer1747.txt': null,
+    'jlumery1456.txt': null,
+    'jlumery117.txt': null,
+    'jacobcurrie.txt': null,
+    'ghoulz1234.txt': null,
   },
   profit: {
     'profitface.png': null,
