@@ -1,0 +1,201 @@
+{
+  "success": true,
+  "query": "kim.currie@aol.com",
+  "limit": 100,
+  "lang": "en",
+  "totalDatabases": 7,
+  "results": [
+    {
+      "database": "BreachedForum Combolists",
+      "infoLeak": "Breached.vc is the best-known website for publishing various data breaches. This database contains all files from the “Combolists” section downloaded on February 22, 2023. The section contained 2,200 databases totaling 170GB of data, or 5 billion rows. After deduplication and removal of rows from collections, only 770 million remained. The data contains only email addresses and passwords.",
+      "records": [
+        {
+          "Email": "kim.currie@aol.com",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "Cloudata",
+      "infoLeak": "This is a large email-password data collection. The database was assembled from numerous files on May 18, 2023. Initially, all databases totaled 338 GB, or 11 billion rows. After duplicates and data from collections were removed, approximately 2 billion remained.",
+      "records": [
+        {
+          "Email": "kim.currie@aol.com",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "HomeChef",
+      "infoLeak": "In early 2020, the food delivery service Home Chef suffered a breach that was later sold online. The breach exposed information on 9 million customers, including names, IP addresses, postal codes, the last 4 digits of credit cards, and passwords stored as bcrypt hashes.",
+      "records": [
+        {
+          "Email": "kim.currie@aol.com",
+          "FullName": "Kim Currie",
+          "IP": "69.121.151.24",
+          "LastActive": "2017-05-13 16:59:28",
+          "LastIP": "69.121.151.24",
+          "Password(bcrypt)": "$2a$10$U4nKngBEhlXs/vL3QmIf8eCJYqIx2kpwcA9TJRQteHGllO3P36TwW",
+          "Phone": "19732881428",
+          "PostCode": "280824",
+          "RegDate": "2017-05-13 16:59:28",
+          "SignCount": "1"
+        }
+      ]
+    },
+    {
+      "database": "InstantCheckmate",
+      "infoLeak": "In 2019, public records search service Instant Checkmate suffered a data breach that became known in early 2023. The data included almost 12 million unique customer email addresses, names, phone numbers, and passwords stored as scrypt hashes.",
+      "records": [
+        {
+          "Email": "kim.currie@aol.com",
+          "EthWallet": "0x76C6C70E510844769056FA1D5096ECE1",
+          "FirstName": "Kim",
+          "LastActive": "2015-09-27 21:02:30000",
+          "LastName": "Currie",
+          "Phone": "2019238149",
+          "RegDate": "2016-03-31 02:44:04000",
+          "Source": "InstantCheckmate",
+          "Status": "active"
+        }
+      ]
+    },
+    {
+      "database": "LeakBase Collection",
+      "infoLeak": "Leakbase.cc is one of the websites where various breaches are published. This database contains all leaks from the site's “Mixed Database” section that include email addresses and passwords. The section held 50GB of files, totaling 1.5 billion rows. After deduplication and removal of rows from collections, only 210 million remained. The data was downloaded in early 2023.",
+      "records": [
+        {
+          "Email": "kim.currie@aol.com",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "MyFitnessPal",
+      "infoLeak": "In February 2018, the diet and exercise service MyFitnessPal suffered a data breach. The incident exposed 144 million unique email addresses along with names, IP addresses, and passwords stored as SHA-1 and bcrypt hashes. All data except the bcrypt hashes was later made publicly available.",
+      "records": [
+        {
+          "Email": "kim.currie@aol.com",
+          "IP": "69.125.124.65",
+          "NickName": "kcurrie72"
+        }
+      ]
+    },
+    {
+      "database": "VerificationsIO",
+      "infoLeak": "In February 2019, the email verification service Verifications.io suffered a data exposure. Data in MongoDB was left publicly accessible without a password, exposing 763 million unique email addresses, phone numbers, and IP addresses. Passwords were not included.",
+      "records": [
+        {
+          "City": "WILMINGTON",
+          "Email": "kim.currie@aol.com",
+          "FirstName": "Nicholas",
+          "IP": "209.160.125.51",
+          "LastName": "BARTEE",
+          "PostCode": "19899",
+          "Site": "snappycarinsurance.com",
+          "State": "DE"
+        }
+      ]
+    }
+  ],
+  "raw": {
+    "List": {
+      "BreachedForum Combolists": {
+        "Data": [
+          {
+            "Email": "kim.currie@aol.com",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "Breached.vc is the best-known website for publishing various data breaches. This database contains all files from the “Combolists” section downloaded on February 22, 2023. The section contained 2,200 databases totaling 170GB of data, or 5 billion rows. After deduplication and removal of rows from collections, only 770 million remained. The data contains only email addresses and passwords.",
+        "NumOfResults": 1
+      },
+      "Cloudata": {
+        "Data": [
+          {
+            "Email": "kim.currie@aol.com",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "This is a large email-password data collection. The database was assembled from numerous files on May 18, 2023. Initially, all databases totaled 338 GB, or 11 billion rows. After duplicates and data from collections were removed, approximately 2 billion remained.",
+        "NumOfResults": 1
+      },
+      "HomeChef": {
+        "Data": [
+          {
+            "Email": "kim.currie@aol.com",
+            "FullName": "Kim Currie",
+            "IP": "69.121.151.24",
+            "LastActive": "2017-05-13 16:59:28",
+            "LastIP": "69.121.151.24",
+            "Password(bcrypt)": "$2a$10$U4nKngBEhlXs/vL3QmIf8eCJYqIx2kpwcA9TJRQteHGllO3P36TwW",
+            "Phone": "19732881428",
+            "PostCode": "280824",
+            "RegDate": "2017-05-13 16:59:28",
+            "SignCount": "1"
+          }
+        ],
+        "InfoLeak": "In early 2020, the food delivery service Home Chef suffered a breach that was later sold online. The breach exposed information on 9 million customers, including names, IP addresses, postal codes, the last 4 digits of credit cards, and passwords stored as bcrypt hashes.",
+        "NumOfResults": 1
+      },
+      "InstantCheckmate": {
+        "Data": [
+          {
+            "Email": "kim.currie@aol.com",
+            "EthWallet": "0x76C6C70E510844769056FA1D5096ECE1",
+            "FirstName": "Kim",
+            "LastActive": "2015-09-27 21:02:30000",
+            "LastName": "Currie",
+            "Phone": "2019238149",
+            "RegDate": "2016-03-31 02:44:04000",
+            "Source": "InstantCheckmate",
+            "Status": "active"
+          }
+        ],
+        "InfoLeak": "In 2019, public records search service Instant Checkmate suffered a data breach that became known in early 2023. The data included almost 12 million unique customer email addresses, names, phone numbers, and passwords stored as scrypt hashes.",
+        "NumOfResults": 1
+      },
+      "LeakBase Collection": {
+        "Data": [
+          {
+            "Email": "kim.currie@aol.com",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "Leakbase.cc is one of the websites where various breaches are published. This database contains all leaks from the site's “Mixed Database” section that include email addresses and passwords. The section held 50GB of files, totaling 1.5 billion rows. After deduplication and removal of rows from collections, only 210 million remained. The data was downloaded in early 2023.",
+        "NumOfResults": 1
+      },
+      "MyFitnessPal": {
+        "Data": [
+          {
+            "Email": "kim.currie@aol.com",
+            "IP": "69.125.124.65",
+            "NickName": "kcurrie72"
+          }
+        ],
+        "InfoLeak": "In February 2018, the diet and exercise service MyFitnessPal suffered a data breach. The incident exposed 144 million unique email addresses along with names, IP addresses, and passwords stored as SHA-1 and bcrypt hashes. All data except the bcrypt hashes was later made publicly available.",
+        "NumOfResults": 1
+      },
+      "VerificationsIO": {
+        "Data": [
+          {
+            "City": "WILMINGTON",
+            "Email": "kim.currie@aol.com",
+            "FirstName": "Nicholas",
+            "IP": "209.160.125.51",
+            "LastName": "BARTEE",
+            "PostCode": "19899",
+            "Site": "snappycarinsurance.com",
+            "State": "DE"
+          }
+        ],
+        "InfoLeak": "In February 2019, the email verification service Verifications.io suffered a data exposure. Data in MongoDB was left publicly accessible without a password, exposing 763 million unique email addresses, phone numbers, and IP addresses. Passwords were not included.",
+        "NumOfResults": 1
+      }
+    },
+    "NumOfDatabase": 7,
+    "NumOfResults": 7,
+    "price": 0.003,
+    "search time": 0
+  }
+}

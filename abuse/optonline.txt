@@ -1,0 +1,981 @@
+{
+  "success": true,
+  "query": "kimber62372@optonline.net",
+  "limit": 100,
+  "lang": "en",
+  "totalDatabases": 31,
+  "results": [
+    {
+      "database": "2844",
+      "infoLeak": "In February 2018, a massive collection of nearly 3,000 alleged data breaches was discovered online. Each file contained email addresses and plaintext passwords.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "LeakSite": "AndroidForums.com",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "Acxiom",
+      "infoLeak": "In 2020, a dataset containing nearly a quarter of a billion records across more than 400 different fields appeared online. It was initially misattributed to Acxiom, a database marketing company. The data contained nearly 52 million unique email addresses.",
+      "records": [
+        {
+          "Address": "3 Corsica Rd",
+          "BDayDay": "0",
+          "BDayMonth": "0",
+          "BDayYear": "1944",
+          "BankName": "LEND AMERICA",
+          "Cats": "Y",
+          "City": "Hopatcong",
+          "Date": "2017-02-14",
+          "Dogs": "Y",
+          "Email": "kimber62372@optonline.net",
+          "EthnicGroup": "W",
+          "FirstName": "LYNNE",
+          "HomeBuiltYear": "0",
+          "House": "3",
+          "Lang": "E1",
+          "LastName": "CURRIE",
+          "Latitude": "40.946500",
+          "Longitude": "-74.647800",
+          "MiddleName": "D",
+          "NumberOfChildren": "U",
+          "PostCode": "07843",
+          "Region": "Sussex",
+          "ReligionCode": "P",
+          "State": "NJ",
+          "TimeZone": "E",
+          "Url": "netquote"
+        }
+      ]
+    },
+    {
+      "database": "Alien TxtBase",
+      "infoLeak": "In early 2025, a massive collection of logs was published in the Alien TxtBase Telegram channel. The data was collected using stealers, malware that steals login credentials and passwords saved in browsers. The collection contained 23 billion rows, but it included many duplicates and showed signs of generated data. After duplicates and records from naz.api and other similar breaches were removed, 2.8 billion unique records remained. They contain email addresses, phone numbers, usernames, IP addresses, plaintext passwords, and the names of websites or installed applications where they were used.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimberly1 "
+        }
+      ]
+    },
+    {
+      "database": "AndroidForums.com",
+      "infoLeak": "In October 2011, the computer website Android Forums was hacked, and 745 thousand user accounts subsequently became publicly available. The compromised data included email addresses, users' dates of birth, and passwords stored as salted MD5 hashes.",
+      "records": [
+        {
+          "BDay": "06-23-0000",
+          "Email": "kimber62372@optonline.net",
+          "FriendsCount": "0",
+          "IP": "173.220.169.146",
+          "LastActive(UNIX)": "1314416254",
+          "NickName": "kimber62372",
+          "Password(MD5+Salt)": "980f55c6dfa8e53b648a07beb932df3f",
+          "PostsCount": "0",
+          "ProfileVisits": "1",
+          "RegDate(UNIX)": "1310493613",
+          "Reputation": "10",
+          "Salt": "rt\\\\y2\"e\\\\1456mS&pIZbJDpUN-+/L)4",
+          "TimeZone": "-5",
+          "Title": "New Member"
+        }
+      ]
+    },
+    {
+      "database": "Appen",
+      "infoLeak": "In June 2020, the AI training company Appen suffered a data breach. Data on 5.9 million users was exposed and later sold online. The data included email addresses and passwords stored as bcrypt hashes. Some records also contained employer phone numbers and IP addresses.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "FullName": "Kim",
+          "RegDate": "2012-06-07 14:19:50.865639",
+          "SignCount": "0"
+        }
+      ]
+    },
+    {
+      "database": "BreachedForum Combolists",
+      "infoLeak": "Breached.vc is the best-known website for publishing various data breaches. This database contains all files from the “Combolists” section downloaded on February 22, 2023. The section contained 2,200 databases totaling 170GB of data, or 5 billion rows. After deduplication and removal of rows from collections, only 770 million remained. The data contains only email addresses and passwords.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimber1"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimberly1972"
+        }
+      ]
+    },
+    {
+      "database": "CafeMom",
+      "infoLeak": "In 2014, the social network for mothers CafeMom suffered a data breach. The data appeared together with several other leaks and contained 2.6 million email addresses and plaintext passwords.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "CafePress",
+      "infoLeak": "In February 2019, custom merchandise retailer CafePress suffered a data breach. A total of 23 million email addresses were exposed. Some records also contain names, physical addresses, phone numbers, and passwords stored as SHA-1 hashes.",
+      "records": [
+        {
+          "Country": "US",
+          "Email": "kimber62372@optonline.net",
+          "LastActive": "Apr  9 2012  6",
+          "NickName": "cosmo",
+          "Password(Hash)": "VLHN9UC2bFDbCFmSJ2XbnFpuU0Y=",
+          "RegDate": "May  5 2005  8"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimbe"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimber"
+        }
+      ]
+    },
+    {
+      "database": "Canva",
+      "infoLeak": "In May 2019, the graphic design tool website Canva was breached. The breach affected 137 million subscribers. The exposed data included email addresses, names, cities of residence, and additional information.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "Lang": "en",
+          "NickName": "kimber62372",
+          "RegDate": "2016-09-12 01:50:31"
+        }
+      ]
+    },
+    {
+      "database": "CashCrate",
+      "infoLeak": "In June 2017, it became known that the survey website CashCrate had suffered a breach exposing 68 million records. The exposed data included names, physical addresses, email addresses, and passwords stored either in plaintext or as MD5 hashes.",
+      "records": [
+        {
+          "Address": "3 Corsica Rd",
+          "City": "Hopatcong",
+          "Country": "us",
+          "Date": "2012-06-03",
+          "Email": "kimber62372@optonline.net",
+          "FirstName": "Kim",
+          "LastName": "Currie",
+          "Password(MD5)": "!2b776a36558a06777a8e420630a36574",
+          "PostCode": "07843",
+          "State": "NJ"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "Cit0Day",
+      "infoLeak": "Cit0day was a service for searching email addresses across various breaches and is now defunct. After it shut down in November 2020, a collection from more than 23,000 hacked websites became publicly available. The data was organized into several dozen categories and contained more than 226 million email addresses and their passwords. Some passwords were protected with hashes.",
+      "records": [
+        {
+          "Category": "Medicine",
+          "Email": "kimber62372@optonline.net",
+          "LeakSite": "femilia.com",
+          "Password(MD5+Salt)": "db8cfe6d7ceccb5aa9779aca42c9f0b6",
+          "Salt": "O7{"
+        }
+      ]
+    },
+    {
+      "database": "ClearVoice Surveys",
+      "infoLeak": "In April 2021, the market research company ClearVoice Surveys accidentally created and distributed a publicly accessible backup of its 2015 database. The data included 15 million unique email addresses, as well as names, physical and IP addresses, gender, dates of birth, and plaintext passwords.",
+      "records": [
+        {
+          "BDay": "1972-06-23 ",
+          "Date": "2010-06-09",
+          "Email": "kimber62372@optonline.net",
+          "FirstName": "Kim",
+          "Gender": "F",
+          "LastName": "Rivas-Currie",
+          "LoginCount": "0",
+          "Password": "kimberly1",
+          "PostCode": "07843"
+        }
+      ]
+    },
+    {
+      "database": "Clearvoicesurvey.com",
+      "infoLeak": "A dump of the American online survey panel ClearVoice Survey exists in the public domain and contains about 17 million rows. It includes full names, email addresses, passwords, dates of birth, gender, phone numbers, mailing addresses, IP addresses, registration dates, and last activity dates. The most recent records are from August 2015.",
+      "records": [
+        {
+          "BDay": "1972-06-23",
+          "Email": "kimber62372@optonline.net",
+          "FirstName": "Kim",
+          "Gender": "F",
+          "LastName": "Rivas-Currie",
+          "LoginAttempts": "0",
+          "Password": "kimberly1",
+          "PostCode": "07843",
+          "RegDate": "2010-06-09 20:31:09.047"
+        }
+      ]
+    },
+    {
+      "database": "Cloudata",
+      "infoLeak": "This is a large email-password data collection. The database was assembled from numerous files on May 18, 2023. Initially, all databases totaled 338 GB, or 11 billion rows. After duplicates and data from collections were removed, approximately 2 billion remained.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "Kimberly1972"
+        }
+      ]
+    },
+    {
+      "database": "Collection",
+      "infoLeak": "In January 2019, a five-part collection combining data from different websites appeared on a hacker forum. The collection contained 108 thousand files with a total size of 870 GB. These files contained 26 billion rows with an email address and password. However, many values were repeated multiple times, and there were only 4.3 billion unique pairs. Nevertheless, this collection is considered the largest leak in history.",
+      "records": [
+        {
+          "CollectionNumbers": "1,2",
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimberly"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "Collection #1",
+      "infoLeak": "In January 2019, 5 collections combining data from numerous other leaks appeared on a popular hacker forum. This was the first collection discovered. It contained 12.300 files with a total size of 87 GB. The collection had more than 2.5 billion rows of email addresses and corresponding passwords, but only 1.25 billion unique rows. For many rows, the website where the leak occurred was specified.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "LeakSite": "AndroidForums.com [454k]",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "Collection #5",
+      "infoLeak": "In January 2019, five collections appeared on a popular hacker forum, combining data from numerous other breaches. The fifth collection contains 16 thousand files totaling 42 gigabytes. The files contained 1.25 billion email-and-password pairs, but only 600 million unique rows. Unlike the other collections, it often included information identifying the specific website from which the data had leaked.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "LeakSite": "AndroidForums.com",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "Collection of 7651 databases",
+      "infoLeak": "In December 2022, all databases from a hacker data-trading website were released publicly. A total of 7,651 leaks were published. The data contained only email addresses and plaintext passwords, totaling 493 million records across all databases.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "LeakSite": "AndroidForums.com",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "Exploit.In",
+      "infoLeak": "In late 2016, a huge list of email and password pairs appeared in the Exploit.In leak. The list contained 593 million unique email addresses and was used for credential stuffing.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimberly"
+        }
+      ]
+    },
+    {
+      "database": "Ga$$Pacc",
+      "infoLeak": "In 2020, a collection of decrypted databases containing 580 million email addresses and their passwords became publicly available. The data came from 243 different breaches and contained only email addresses and unencrypted passwords.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "LeakSite": "Cafepress.com",
+          "Password": "kimberly"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "LeakSite": "CashCrate.com",
+          "Password": "kimberly1"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "LeakSite": "Hautelook.com",
+          "Password": "kimberly1"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "LeakSite": "myfitnesspal_emailpass_50",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "HauteLook",
+      "infoLeak": "In mid-2018, the fashion retail website HauteLook was hacked. The data includes more than 28 million email addresses, as well as names, gender, dates of birth, and passwords stored as bcrypt hashes.",
+      "records": [
+        {
+          "Country": "US",
+          "Email": "kimber62372@optonline.net",
+          "FirstName": "Kim",
+          "Gender": "F",
+          "LastName": "Currie",
+          "Password(bcrypt)": "4e6d4d504446a3c317b0a82d9b578664",
+          "PostCode": "07843"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimber"
+        }
+      ]
+    },
+    {
+      "database": "LeakBase Collection",
+      "infoLeak": "Leakbase.cc is one of the websites where various breaches are published. This database contains all leaks from the site's “Mixed Database” section that include email addresses and passwords. The section held 50GB of files, totaling 1.5 billion rows. After deduplication and removal of rows from collections, only 210 million remained. The data was downloaded in early 2023.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimber72"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "Kimberly1972"
+        }
+      ]
+    },
+    {
+      "database": "LinkedIn 2016",
+      "infoLeak": "In May 2016, data from approximately 165 million LinkedIn accounts stolen during the 2012 hack of the professional social network was published. The dataset included email addresses and passwords stored as unsalted SHA-1 hashes. One widely circulated version of the database contained around 160 million rows with email addresses.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net"
+        }
+      ]
+    },
+    {
+      "database": "LiveJournal",
+      "infoLeak": "In mid-2019, reports emerged of an alleged LiveJournal data breach. The breach allegedly occurred in 2017 and contains 26 million unique usernames and email addresses, as well as plaintext passwords. The data archive was published on a hacker forum in May 2020.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "NickName": "kimsdesigns",
+          "Password": "kimber72"
+        }
+      ]
+    },
+    {
+      "database": "MyFitnessPal",
+      "infoLeak": "In February 2018, the diet and exercise service MyFitnessPal suffered a data breach. The incident exposed 144 million unique email addresses along with names, IP addresses, and passwords stored as SHA-1 and bcrypt hashes. All data except the bcrypt hashes was later made publicly available.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "IP": "24.47.148.254",
+          "NickName": "kimber62372",
+          "Password(SHA1)": "d7a596b64facf411c3ef63c0ab90ee27eb9141a4"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "Pemiblanc",
+      "infoLeak": "In April 2018, the Pemiblanc list containing 111 million email addresses and passwords was discovered on a French server. The data had been assembled from various breaches of other services and platforms.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "PeopleDataLabs",
+      "infoLeak": "In October 2019, a server containing 12 billion personal data records was discovered. The data belonged to PeopleDataLabs, a data enrichment company. A total of 622 million email addresses were affected, along with phone numbers and workplaces.",
+      "records": [
+        {
+          "Address": "north bergen, new jersey, united states",
+          "Email": "kimber62372@optonline.net",
+          "FullName": "kim currie"
+        }
+      ]
+    },
+    {
+      "database": "TeraBase64",
+      "infoLeak": "A huge collection of files published in February 2020 by a person using the alias @HTTSMVKCOM. It contained 3.2 billion rows with email addresses and plain-text passwords, but only 1.28 billion rows were unique. All this data was most likely obtained from numerous other leaks.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimber1"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimberly1"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "Kimberly1972"
+        },
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimberly62372"
+        }
+      ]
+    },
+    {
+      "database": "Twitter 200M",
+      "infoLeak": "In January 2022, a vulnerability in the Twitter platform allowed a hacker to create a database of email addresses and phone numbers belonging to 200 million users of the social platform. In August 2022, Twitter stated that the vulnerability was related to a bug introduced in June 2021. The data included email addresses, phone numbers, usernames, biographies, locations, and profile photographs.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "Followers": "24",
+          "FullName": "Kim Currie",
+          "NickName": "kimber62372",
+          "RegDate": "25.04.2009 02:51:31"
+        }
+      ]
+    },
+    {
+      "database": "USA Fresh Dump",
+      "infoLeak": "This is a combination of numerous US breaches compiled in 2022. It contains 25 million email addresses together with their passwords.",
+      "records": [
+        {
+          "Email": "kimber62372@optonline.net",
+          "Password": "kimber"
+        }
+      ]
+    },
+    {
+      "database": "USA Hige Leak",
+      "infoLeak": "A huge database of US residents originally leaked by pompompurin on the now-defunct RaidForum. The source is unknown, but the database contains data on more than 250 million American citizens. The data includes names, addresses, phone numbers, geolocation, home and income information, nationality, and dates of birth. It also contained more than 100 million email addresses.",
+      "records": [
+        {
+          "Address": "3 Corsica Rd",
+          "Age": "77",
+          "BDayMonth": "4",
+          "BDayYear": "1944",
+          "CBSA_Description": "New York-Newark-Jersey City NY-NJ-PA",
+          "Cities": "Hopatcong",
+          "City": "Hopatcong",
+          "CreditCapacity": "25000",
+          "Email": "kimber62372@optonline.net",
+          "EthnicCode": "sco",
+          "FirstName": "Lynne",
+          "Gender": "F",
+          "HomePurchaseYear": "2013",
+          "HousePrice": "$300000 to $349999",
+          "Income": "$100000 to $149999",
+          "LastName": "Currie",
+          "Latitude": "40.946556",
+          "Longitude": "-74.647842",
+          "MiddleName": "D",
+          "Phone": "2016627476",
+          "Phone2": "2019238140",
+          "PostCode": "07843",
+          "PostCode11": "07843180603",
+          "PostCode4": "1806",
+          "Region": "Sussex",
+          "State": "NJ",
+          "Street": "Corsica",
+          "StreetSuffix": "Rd",
+          "TimeZone": "5"
+        }
+      ]
+    }
+  ],
+  "raw": {
+    "List": {
+      "2844": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "LeakSite": "AndroidForums.com",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "In February 2018, a massive collection of nearly 3,000 alleged data breaches was discovered online. Each file contained email addresses and plaintext passwords.",
+        "NumOfResults": 1
+      },
+      "Acxiom": {
+        "Data": [
+          {
+            "Address": "3 Corsica Rd",
+            "BDayDay": "0",
+            "BDayMonth": "0",
+            "BDayYear": "1944",
+            "BankName": "LEND AMERICA",
+            "Cats": "Y",
+            "City": "Hopatcong",
+            "Date": "2017-02-14",
+            "Dogs": "Y",
+            "Email": "kimber62372@optonline.net",
+            "EthnicGroup": "W",
+            "FirstName": "LYNNE",
+            "HomeBuiltYear": "0",
+            "House": "3",
+            "Lang": "E1",
+            "LastName": "CURRIE",
+            "Latitude": "40.946500",
+            "Longitude": "-74.647800",
+            "MiddleName": "D",
+            "NumberOfChildren": "U",
+            "PostCode": "07843",
+            "Region": "Sussex",
+            "ReligionCode": "P",
+            "State": "NJ",
+            "TimeZone": "E",
+            "Url": "netquote"
+          }
+        ],
+        "InfoLeak": "In 2020, a dataset containing nearly a quarter of a billion records across more than 400 different fields appeared online. It was initially misattributed to Acxiom, a database marketing company. The data contained nearly 52 million unique email addresses.",
+        "NumOfResults": 1
+      },
+      "Alien TxtBase": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimberly1 "
+          }
+        ],
+        "InfoLeak": "In early 2025, a massive collection of logs was published in the Alien TxtBase Telegram channel. The data was collected using stealers, malware that steals login credentials and passwords saved in browsers. The collection contained 23 billion rows, but it included many duplicates and showed signs of generated data. After duplicates and records from naz.api and other similar breaches were removed, 2.8 billion unique records remained. They contain email addresses, phone numbers, usernames, IP addresses, plaintext passwords, and the names of websites or installed applications where they were used.",
+        "NumOfResults": 1
+      },
+      "AndroidForums.com": {
+        "Data": [
+          {
+            "BDay": "06-23-0000",
+            "Email": "kimber62372@optonline.net",
+            "FriendsCount": "0",
+            "IP": "173.220.169.146",
+            "LastActive(UNIX)": "1314416254",
+            "NickName": "kimber62372",
+            "Password(MD5+Salt)": "980f55c6dfa8e53b648a07beb932df3f",
+            "PostsCount": "0",
+            "ProfileVisits": "1",
+            "RegDate(UNIX)": "1310493613",
+            "Reputation": "10",
+            "Salt": "rt\\\\y2\"e\\\\1456mS&pIZbJDpUN-+/L)4",
+            "TimeZone": "-5",
+            "Title": "New Member"
+          }
+        ],
+        "InfoLeak": "In October 2011, the computer website Android Forums was hacked, and 745 thousand user accounts subsequently became publicly available. The compromised data included email addresses, users' dates of birth, and passwords stored as salted MD5 hashes.",
+        "NumOfResults": 1
+      },
+      "Appen": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "FullName": "Kim",
+            "RegDate": "2012-06-07 14:19:50.865639",
+            "SignCount": "0"
+          }
+        ],
+        "InfoLeak": "In June 2020, the AI training company Appen suffered a data breach. Data on 5.9 million users was exposed and later sold online. The data included email addresses and passwords stored as bcrypt hashes. Some records also contained employer phone numbers and IP addresses.",
+        "NumOfResults": 1
+      },
+      "BreachedForum Combolists": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimber1"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimberly1972"
+          }
+        ],
+        "InfoLeak": "Breached.vc is the best-known website for publishing various data breaches. This database contains all files from the “Combolists” section downloaded on February 22, 2023. The section contained 2,200 databases totaling 170GB of data, or 5 billion rows. After deduplication and removal of rows from collections, only 770 million remained. The data contains only email addresses and passwords.",
+        "NumOfResults": 2
+      },
+      "CafeMom": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "In 2014, the social network for mothers CafeMom suffered a data breach. The data appeared together with several other leaks and contained 2.6 million email addresses and plaintext passwords.",
+        "NumOfResults": 1
+      },
+      "CafePress": {
+        "Data": [
+          {
+            "Country": "US",
+            "Email": "kimber62372@optonline.net",
+            "LastActive": "Apr  9 2012  6",
+            "NickName": "cosmo",
+            "Password(Hash)": "VLHN9UC2bFDbCFmSJ2XbnFpuU0Y=",
+            "RegDate": "May  5 2005  8"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimbe"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimber"
+          }
+        ],
+        "InfoLeak": "In February 2019, custom merchandise retailer CafePress suffered a data breach. A total of 23 million email addresses were exposed. Some records also contain names, physical addresses, phone numbers, and passwords stored as SHA-1 hashes.",
+        "NumOfResults": 3
+      },
+      "Canva": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "Lang": "en",
+            "NickName": "kimber62372",
+            "RegDate": "2016-09-12 01:50:31"
+          }
+        ],
+        "InfoLeak": "In May 2019, the graphic design tool website Canva was breached. The breach affected 137 million subscribers. The exposed data included email addresses, names, cities of residence, and additional information.",
+        "NumOfResults": 1
+      },
+      "CashCrate": {
+        "Data": [
+          {
+            "Address": "3 Corsica Rd",
+            "City": "Hopatcong",
+            "Country": "us",
+            "Date": "2012-06-03",
+            "Email": "kimber62372@optonline.net",
+            "FirstName": "Kim",
+            "LastName": "Currie",
+            "Password(MD5)": "!2b776a36558a06777a8e420630a36574",
+            "PostCode": "07843",
+            "State": "NJ"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "In June 2017, it became known that the survey website CashCrate had suffered a breach exposing 68 million records. The exposed data included names, physical addresses, email addresses, and passwords stored either in plaintext or as MD5 hashes.",
+        "NumOfResults": 2
+      },
+      "Cit0Day": {
+        "Data": [
+          {
+            "Category": "Medicine",
+            "Email": "kimber62372@optonline.net",
+            "LeakSite": "femilia.com",
+            "Password(MD5+Salt)": "db8cfe6d7ceccb5aa9779aca42c9f0b6",
+            "Salt": "O7{"
+          }
+        ],
+        "InfoLeak": "Cit0day was a service for searching email addresses across various breaches and is now defunct. After it shut down in November 2020, a collection from more than 23,000 hacked websites became publicly available. The data was organized into several dozen categories and contained more than 226 million email addresses and their passwords. Some passwords were protected with hashes.",
+        "NumOfResults": 1
+      },
+      "ClearVoice Surveys": {
+        "Data": [
+          {
+            "BDay": "1972-06-23 ",
+            "Date": "2010-06-09",
+            "Email": "kimber62372@optonline.net",
+            "FirstName": "Kim",
+            "Gender": "F",
+            "LastName": "Rivas-Currie",
+            "LoginCount": "0",
+            "Password": "kimberly1",
+            "PostCode": "07843"
+          }
+        ],
+        "InfoLeak": "In April 2021, the market research company ClearVoice Surveys accidentally created and distributed a publicly accessible backup of its 2015 database. The data included 15 million unique email addresses, as well as names, physical and IP addresses, gender, dates of birth, and plaintext passwords.",
+        "NumOfResults": 1
+      },
+      "Clearvoicesurvey.com": {
+        "Data": [
+          {
+            "BDay": "1972-06-23",
+            "Email": "kimber62372@optonline.net",
+            "FirstName": "Kim",
+            "Gender": "F",
+            "LastName": "Rivas-Currie",
+            "LoginAttempts": "0",
+            "Password": "kimberly1",
+            "PostCode": "07843",
+            "RegDate": "2010-06-09 20:31:09.047"
+          }
+        ],
+        "InfoLeak": "A dump of the American online survey panel ClearVoice Survey exists in the public domain and contains about 17 million rows. It includes full names, email addresses, passwords, dates of birth, gender, phone numbers, mailing addresses, IP addresses, registration dates, and last activity dates. The most recent records are from August 2015.",
+        "NumOfResults": 1
+      },
+      "Cloudata": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "Kimberly1972"
+          }
+        ],
+        "InfoLeak": "This is a large email-password data collection. The database was assembled from numerous files on May 18, 2023. Initially, all databases totaled 338 GB, or 11 billion rows. After duplicates and data from collections were removed, approximately 2 billion remained.",
+        "NumOfResults": 1
+      },
+      "Collection": {
+        "Data": [
+          {
+            "CollectionNumbers": "1,2",
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimberly"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "In January 2019, a five-part collection combining data from different websites appeared on a hacker forum. The collection contained 108 thousand files with a total size of 870 GB. These files contained 26 billion rows with an email address and password. However, many values were repeated multiple times, and there were only 4.3 billion unique pairs. Nevertheless, this collection is considered the largest leak in history.",
+        "NumOfResults": 2
+      },
+      "Collection #1": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "LeakSite": "AndroidForums.com [454k]",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "In January 2019, 5 collections combining data from numerous other leaks appeared on a popular hacker forum. This was the first collection discovered. It contained 12.300 files with a total size of 87 GB. The collection had more than 2.5 billion rows of email addresses and corresponding passwords, but only 1.25 billion unique rows. For many rows, the website where the leak occurred was specified.",
+        "NumOfResults": 1
+      },
+      "Collection #5": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "LeakSite": "AndroidForums.com",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "In January 2019, five collections appeared on a popular hacker forum, combining data from numerous other breaches. The fifth collection contains 16 thousand files totaling 42 gigabytes. The files contained 1.25 billion email-and-password pairs, but only 600 million unique rows. Unlike the other collections, it often included information identifying the specific website from which the data had leaked.",
+        "NumOfResults": 1
+      },
+      "Collection of 7651 databases": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "LeakSite": "AndroidForums.com",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "In December 2022, all databases from a hacker data-trading website were released publicly. A total of 7,651 leaks were published. The data contained only email addresses and plaintext passwords, totaling 493 million records across all databases.",
+        "NumOfResults": 1
+      },
+      "Exploit.In": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimberly"
+          }
+        ],
+        "InfoLeak": "In late 2016, a huge list of email and password pairs appeared in the Exploit.In leak. The list contained 593 million unique email addresses and was used for credential stuffing.",
+        "NumOfResults": 1
+      },
+      "Ga$$Pacc": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "LeakSite": "Cafepress.com",
+            "Password": "kimberly"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "LeakSite": "CashCrate.com",
+            "Password": "kimberly1"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "LeakSite": "Hautelook.com",
+            "Password": "kimberly1"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "LeakSite": "myfitnesspal_emailpass_50",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "In 2020, a collection of decrypted databases containing 580 million email addresses and their passwords became publicly available. The data came from 243 different breaches and contained only email addresses and unencrypted passwords.",
+        "NumOfResults": 4
+      },
+      "HauteLook": {
+        "Data": [
+          {
+            "Country": "US",
+            "Email": "kimber62372@optonline.net",
+            "FirstName": "Kim",
+            "Gender": "F",
+            "LastName": "Currie",
+            "Password(bcrypt)": "4e6d4d504446a3c317b0a82d9b578664",
+            "PostCode": "07843"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimber"
+          }
+        ],
+        "InfoLeak": "In mid-2018, the fashion retail website HauteLook was hacked. The data includes more than 28 million email addresses, as well as names, gender, dates of birth, and passwords stored as bcrypt hashes.",
+        "NumOfResults": 2
+      },
+      "LeakBase Collection": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimber72"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "Kimberly1972"
+          }
+        ],
+        "InfoLeak": "Leakbase.cc is one of the websites where various breaches are published. This database contains all leaks from the site's “Mixed Database” section that include email addresses and passwords. The section held 50GB of files, totaling 1.5 billion rows. After deduplication and removal of rows from collections, only 210 million remained. The data was downloaded in early 2023.",
+        "NumOfResults": 2
+      },
+      "LinkedIn 2016": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net"
+          }
+        ],
+        "InfoLeak": "In May 2016, data from approximately 165 million LinkedIn accounts stolen during the 2012 hack of the professional social network was published. The dataset included email addresses and passwords stored as unsalted SHA-1 hashes. One widely circulated version of the database contained around 160 million rows with email addresses.",
+        "NumOfResults": 1
+      },
+      "LiveJournal": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "NickName": "kimsdesigns",
+            "Password": "kimber72"
+          }
+        ],
+        "InfoLeak": "In mid-2019, reports emerged of an alleged LiveJournal data breach. The breach allegedly occurred in 2017 and contains 26 million unique usernames and email addresses, as well as plaintext passwords. The data archive was published on a hacker forum in May 2020.",
+        "NumOfResults": 1
+      },
+      "MyFitnessPal": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "IP": "24.47.148.254",
+            "NickName": "kimber62372",
+            "Password(SHA1)": "d7a596b64facf411c3ef63c0ab90ee27eb9141a4"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "In February 2018, the diet and exercise service MyFitnessPal suffered a data breach. The incident exposed 144 million unique email addresses along with names, IP addresses, and passwords stored as SHA-1 and bcrypt hashes. All data except the bcrypt hashes was later made publicly available.",
+        "NumOfResults": 2
+      },
+      "Pemiblanc": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "In April 2018, the Pemiblanc list containing 111 million email addresses and passwords was discovered on a French server. The data had been assembled from various breaches of other services and platforms.",
+        "NumOfResults": 1
+      },
+      "PeopleDataLabs": {
+        "Data": [
+          {
+            "Address": "north bergen, new jersey, united states",
+            "Email": "kimber62372@optonline.net",
+            "FullName": "kim currie"
+          }
+        ],
+        "InfoLeak": "In October 2019, a server containing 12 billion personal data records was discovered. The data belonged to PeopleDataLabs, a data enrichment company. A total of 622 million email addresses were affected, along with phone numbers and workplaces.",
+        "NumOfResults": 1
+      },
+      "TeraBase64": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimber1"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimberly1"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "Kimberly1972"
+          },
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimberly62372"
+          }
+        ],
+        "InfoLeak": "A huge collection of files published in February 2020 by a person using the alias @HTTSMVKCOM. It contained 3.2 billion rows with email addresses and plain-text passwords, but only 1.28 billion rows were unique. All this data was most likely obtained from numerous other leaks.",
+        "NumOfResults": 4
+      },
+      "Twitter 200M": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "Followers": "24",
+            "FullName": "Kim Currie",
+            "NickName": "kimber62372",
+            "RegDate": "25.04.2009 02:51:31"
+          }
+        ],
+        "InfoLeak": "In January 2022, a vulnerability in the Twitter platform allowed a hacker to create a database of email addresses and phone numbers belonging to 200 million users of the social platform. In August 2022, Twitter stated that the vulnerability was related to a bug introduced in June 2021. The data included email addresses, phone numbers, usernames, biographies, locations, and profile photographs.",
+        "NumOfResults": 1
+      },
+      "USA Fresh Dump": {
+        "Data": [
+          {
+            "Email": "kimber62372@optonline.net",
+            "Password": "kimber"
+          }
+        ],
+        "InfoLeak": "This is a combination of numerous US breaches compiled in 2022. It contains 25 million email addresses together with their passwords.",
+        "NumOfResults": 1
+      },
+      "USA Hige Leak": {
+        "Data": [
+          {
+            "Address": "3 Corsica Rd",
+            "Age": "77",
+            "BDayMonth": "4",
+            "BDayYear": "1944",
+            "CBSA_Description": "New York-Newark-Jersey City NY-NJ-PA",
+            "Cities": "Hopatcong",
+            "City": "Hopatcong",
+            "CreditCapacity": "25000",
+            "Email": "kimber62372@optonline.net",
+            "EthnicCode": "sco",
+            "FirstName": "Lynne",
+            "Gender": "F",
+            "HomePurchaseYear": "2013",
+            "HousePrice": "$300000 to $349999",
+            "Income": "$100000 to $149999",
+            "LastName": "Currie",
+            "Latitude": "40.946556",
+            "Longitude": "-74.647842",
+            "MiddleName": "D",
+            "Phone": "2016627476",
+            "Phone2": "2019238140",
+            "PostCode": "07843",
+            "PostCode11": "07843180603",
+            "PostCode4": "1806",
+            "Region": "Sussex",
+            "State": "NJ",
+            "Street": "Corsica",
+            "StreetSuffix": "Rd",
+            "TimeZone": "5"
+          }
+        ],
+        "InfoLeak": "A huge database of US residents originally leaked by pompompurin on the now-defunct RaidForum. The source is unknown, but the database contains data on more than 250 million American citizens. The data includes names, addresses, phone numbers, geolocation, home and income information, nationality, and dates of birth. It also contained more than 100 million email addresses.",
+        "NumOfResults": 1
+      }
+    },
+    "NumOfDatabase": 31,
+    "NumOfResults": 45,
+    "price": 0.003,
+    "search time": 0
+  }
+}

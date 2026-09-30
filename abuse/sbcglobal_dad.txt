@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "query": "darren.currie@sbcglobal.net",
+  "limit": 100,
+  "lang": "en",
+  "totalDatabases": 1,
+  "results": [
+    {
+      "database": "VerificationsIO",
+      "infoLeak": "In February 2019, the email verification service Verifications.io suffered a data exposure. Data in MongoDB was left publicly accessible without a password, exposing 763 million unique email addresses, phone numbers, and IP addresses. Passwords were not included.",
+      "records": [
+        {
+          "Email": "darren.currie@sbcglobal.net"
+        },
+        {
+          "Email": "darren.currie@sbcglobal.net"
+        }
+      ]
+    }
+  ],
+  "raw": {
+    "List": {
+      "VerificationsIO": {
+        "Data": [
+          {
+            "Email": "darren.currie@sbcglobal.net"
+          },
+          {
+            "Email": "darren.currie@sbcglobal.net"
+          }
+        ],
+        "InfoLeak": "In February 2019, the email verification service Verifications.io suffered a data exposure. Data in MongoDB was left publicly accessible without a password, exposing 763 million unique email addresses, phone numbers, and IP addresses. Passwords were not included.",
+        "NumOfResults": 2
+      }
+    },
+    "NumOfDatabase": 1,
+    "NumOfResults": 2,
+    "price": 0.003,
+    "search time": 0
+  }
+}
