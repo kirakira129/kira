@@ -1,0 +1,1113 @@
+Module: Combined Search
+Query: sweatbtw4@gmail.com
+Search Type: Email
+Results: 11
+
+Success:
+  true
+Query:
+  sweatbtw4@gmail.com
+Mode:
+  email
+Count:
+  11
+Credits Used:
+  4
+Searches Remaining:
+  955 left
+Modules:
+  [1]
+    Key:
+      snusbase
+    Label:
+      Snusbase
+    Source Type:
+      snusbase
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      353
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [2]
+    Key:
+      leakosint
+    Label:
+      LeakOSINT
+    Source Type:
+      leakosint
+    Status:
+      results
+    Count:
+      2
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      447
+    Results:
+      [1]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          Sweatbtw4 
+        Url:
+          accounts.google.com/signin/v2/challenge/pwd
+        Breach:
+          Alien TxtBase
+        Source:
+          Alien TxtBase
+        Num Results:
+          1
+      [2]
+        Email:
+          sweatbtw4@gmail.com 
+        Breach:
+          Unique emails by Addka
+        Source:
+          Unique emails by Addka
+        Num Results:
+          1
+    Meta:
+      Query:
+        sweatbtw4@gmail.com
+      Database Count:
+        2
+      Visible Results:
+        2
+      Limit:
+        100
+      Lang:
+        en
+      Upstream Num Results:
+        2
+      Price:
+        0.003
+      Search Time:
+        0.0462713
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [3]
+    Key:
+      leaksight
+    Label:
+      LeakSight
+    Source Type:
+      leaksight
+    Status:
+      results
+    Count:
+      4
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      1656
+    Results:
+      [1]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          deadpool69
+        Source:
+          paypal.com/cgi-bin/webscr
+        Host:
+          paypal.com
+        Path:
+          cgi-bin/webscr
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+      [2]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          deadpool69
+        Source:
+          paypal.com
+        Host:
+          paypal.com
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+      [3]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          Sweatbtw4
+        Source:
+          accounts.google.com/signin/v2/challenge/pwd
+        Host:
+          accounts.google.com
+        Path:
+          signin/v2/challenge/pwd
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+      [4]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          Sweatbtw4
+        Source:
+          accounts.google.com/
+        Host:
+          accounts.google.com
+        Path:
+          /
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [4]
+    Key:
+      inf0sec
+    Label:
+      Inf0sec
+    Source Type:
+      inf0sec
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      819
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [5]
+    Key:
+      leakcheck
+    Label:
+      LeakCheck V2
+    Source Type:
+      leakcheck
+    Status:
+      results
+    Count:
+      2
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      406
+    Results:
+      [1]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          Sweatbtw4
+        Source:
+          Stealer Logs
+        Source Info:
+          Name:
+            Stealer Logs
+          Unverified:
+            0
+          Passwordless:
+            0
+          Compilation:
+            1
+        Fields:
+          [1]
+            password
+          [2]
+            origin
+          [3]
+            email
+        Origin:
+          accounts.google.com
+        Leakcheck Type:
+          email
+      [2]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          deadpool69
+        Source:
+          Stealer Logs
+        Source Info:
+          Name:
+            Stealer Logs
+          Unverified:
+            0
+          Passwordless:
+            0
+          Compilation:
+            1
+        Fields:
+          [1]
+            password
+          [2]
+            origin
+          [3]
+            email
+        Origin:
+          paypal.com
+        Leakcheck Type:
+          email
+    Meta:
+      Provider:
+        LeakCheck
+      Leakcheck Type:
+        email
+      Found:
+        2
+      Quota Remaining:
+        119
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [6]
+    Key:
+      oathnet
+    Label:
+      OathNet
+    Source Type:
+      oathnet
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      531
+    Meta:
+      Query:
+        sweatbtw4@gmail.com
+      Module:
+        search-breach
+      Service:
+        OathNet
+      Results Found:
+        0
+      Results Shown:
+        0
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [7]
+    Key:
+      intelvault
+    Label:
+      IntelVault
+    Source Type:
+      intelvault
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      829
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [8]
+    Key:
+      breachdirectory
+    Label:
+      BreachDirectory
+    Source Type:
+      breachdirectory
+    Status:
+      pending
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      Waiting for this module to finish.
+    Http Status:
+      0
+    Latency Ms:
+      0
+  [9]
+    Key:
+      osintcat
+    Label:
+      OsintCat
+    Source Type:
+      stealer
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      1175
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [10]
+    Key:
+      seon
+    Label:
+      SEON
+    Source Type:
+      seon
+    Status:
+      pending
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      Waiting for this module to finish.
+    Http Status:
+      0
+    Latency Ms:
+      0
+  [11]
+    Key:
+      hudsonrock
+    Label:
+      Hudson Rock
+    Source Type:
+      hudsonrock
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      841
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [12]
+    Key:
+      antipublic
+    Label:
+      AntiPublic
+    Source Type:
+      antipublic
+    Status:
+      results
+    Count:
+      3
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      514
+    Results:
+      [1]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          Jake102906
+        Source:
+          AntiPublic
+      [2]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          Sweatbtw4
+        Source:
+          AntiPublic
+      [3]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          deadpool69
+        Source:
+          AntiPublic
+    Meta:
+      Query:
+        sweatbtw4@gmail.com
+      Total:
+        3
+      Service:
+        AntiPublic
+      Available Queries:
+        209901
+      Page Total Results:
+        3
+      Page Number:
+        1
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [13]
+    Key:
+      breachbase
+    Label:
+      BreachBase
+    Source Type:
+      breachbase
+    Status:
+      pending
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      Waiting for this module to finish.
+    Http Status:
+      0
+    Latency Ms:
+      0
+Results:
+  [1]
+    Key:
+      snusbase
+    Label:
+      Snusbase
+    Source Type:
+      snusbase
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      353
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [2]
+    Key:
+      leakosint
+    Label:
+      LeakOSINT
+    Source Type:
+      leakosint
+    Status:
+      results
+    Count:
+      2
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      447
+    Results:
+      [1]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          Sweatbtw4 
+        Url:
+          accounts.google.com/signin/v2/challenge/pwd
+        Breach:
+          Alien TxtBase
+        Source:
+          Alien TxtBase
+        Num Results:
+          1
+      [2]
+        Email:
+          sweatbtw4@gmail.com 
+        Breach:
+          Unique emails by Addka
+        Source:
+          Unique emails by Addka
+        Num Results:
+          1
+    Meta:
+      Query:
+        sweatbtw4@gmail.com
+      Database Count:
+        2
+      Visible Results:
+        2
+      Limit:
+        100
+      Lang:
+        en
+      Upstream Num Results:
+        2
+      Price:
+        0.003
+      Search Time:
+        0.0462713
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [3]
+    Key:
+      leaksight
+    Label:
+      LeakSight
+    Source Type:
+      leaksight
+    Status:
+      results
+    Count:
+      4
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      1656
+    Results:
+      [1]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          deadpool69
+        Source:
+          paypal.com/cgi-bin/webscr
+        Host:
+          paypal.com
+        Path:
+          cgi-bin/webscr
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+      [2]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          deadpool69
+        Source:
+          paypal.com
+        Host:
+          paypal.com
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+      [3]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          Sweatbtw4
+        Source:
+          accounts.google.com/signin/v2/challenge/pwd
+        Host:
+          accounts.google.com
+        Path:
+          signin/v2/challenge/pwd
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+      [4]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          Sweatbtw4
+        Source:
+          accounts.google.com/
+        Host:
+          accounts.google.com
+        Path:
+          /
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [4]
+    Key:
+      inf0sec
+    Label:
+      Inf0sec
+    Source Type:
+      inf0sec
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      819
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [5]
+    Key:
+      leakcheck
+    Label:
+      LeakCheck V2
+    Source Type:
+      leakcheck
+    Status:
+      results
+    Count:
+      2
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      406
+    Results:
+      [1]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          Sweatbtw4
+        Source:
+          Stealer Logs
+        Source Info:
+          Name:
+            Stealer Logs
+          Unverified:
+            0
+          Passwordless:
+            0
+          Compilation:
+            1
+        Fields:
+          [1]
+            password
+          [2]
+            origin
+          [3]
+            email
+        Origin:
+          accounts.google.com
+        Leakcheck Type:
+          email
+      [2]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          deadpool69
+        Source:
+          Stealer Logs
+        Source Info:
+          Name:
+            Stealer Logs
+          Unverified:
+            0
+          Passwordless:
+            0
+          Compilation:
+            1
+        Fields:
+          [1]
+            password
+          [2]
+            origin
+          [3]
+            email
+        Origin:
+          paypal.com
+        Leakcheck Type:
+          email
+    Meta:
+      Provider:
+        LeakCheck
+      Leakcheck Type:
+        email
+      Found:
+        2
+      Quota Remaining:
+        119
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [6]
+    Key:
+      oathnet
+    Label:
+      OathNet
+    Source Type:
+      oathnet
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      531
+    Meta:
+      Query:
+        sweatbtw4@gmail.com
+      Module:
+        search-breach
+      Service:
+        OathNet
+      Results Found:
+        0
+      Results Shown:
+        0
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [7]
+    Key:
+      intelvault
+    Label:
+      IntelVault
+    Source Type:
+      intelvault
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      829
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [8]
+    Key:
+      breachdirectory
+    Label:
+      BreachDirectory
+    Source Type:
+      breachdirectory
+    Status:
+      pending
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      Waiting for this module to finish.
+    Http Status:
+      0
+    Latency Ms:
+      0
+  [9]
+    Key:
+      osintcat
+    Label:
+      OsintCat
+    Source Type:
+      stealer
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      1175
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [10]
+    Key:
+      seon
+    Label:
+      SEON
+    Source Type:
+      seon
+    Status:
+      pending
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      Waiting for this module to finish.
+    Http Status:
+      0
+    Latency Ms:
+      0
+  [11]
+    Key:
+      hudsonrock
+    Label:
+      Hudson Rock
+    Source Type:
+      hudsonrock
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      841
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [12]
+    Key:
+      antipublic
+    Label:
+      AntiPublic
+    Source Type:
+      antipublic
+    Status:
+      results
+    Count:
+      3
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      514
+    Results:
+      [1]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          Jake102906
+        Source:
+          AntiPublic
+      [2]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          Sweatbtw4
+        Source:
+          AntiPublic
+      [3]
+        Email:
+          sweatbtw4@gmail.com
+        Password:
+          deadpool69
+        Source:
+          AntiPublic
+    Meta:
+      Query:
+        sweatbtw4@gmail.com
+      Total:
+        3
+      Service:
+        AntiPublic
+      Available Queries:
+        209901
+      Page Total Results:
+        3
+      Page Number:
+        1
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [13]
+    Key:
+      breachbase
+    Label:
+      BreachBase
+    Source Type:
+      breachbase
+    Status:
+      pending
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      Waiting for this module to finish.
+    Http Status:
+      0
+    Latency Ms:
+      0
+Meta:
+  Combined:
+    true
+  Plan:
+    annual
+  Selected Count:
+    13
+  Completed Count:
+    10
+  Modules With Results:
+    4
+  Stopped Due To Limit:
+    false
+  Billing Adjusted:
+    false
+  Stream Complete:
+    false
+  Status Counts:
+    Results:
+      4
+    Pending:
+      3
+    Empty:
+      6
+    Error:
+      0
+    Rate Limited:
+      0
+    Skipped:
+      0

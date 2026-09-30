@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "query": "jcurrie@students.hopatcongschools.org",
+  "limit": 100,
+  "lang": "en",
+  "totalDatabases": 2,
+  "results": [
+    {
+      "database": "Alien TxtBase",
+      "infoLeak": "In early 2025, a massive collection of logs was published in the Alien TxtBase Telegram channel. The data was collected using stealers, malware that steals login credentials and passwords saved in browsers. The collection contained 23 billion rows, but it included many duplicates and showed signs of generated data. After duplicates and records from naz.api and other similar breaches were removed, 2.8 billion unique records remained. They contain email addresses, phone numbers, usernames, IP addresses, plaintext passwords, and the names of websites or installed applications where they were used.",
+      "records": [
+        {
+          "Email": "jcurrie@students.hopatcongschools.org",
+          "Password": "wholeplease81 ",
+          "Url": "accounts.google.com"
+        },
+        {
+          "Email": "jcurrie@students.hopatcongschools.org",
+          "Password": "wholeplease81 ",
+          "Url": "accounts.google.com/signin/v2/challenge/pwd"
+        }
+      ]
+    },
+    {
+      "database": "Unique emails by Addka",
+      "infoLeak": "In September 2024, a user named Addka72424 posted a list of email addresses collected from many different breaches on the BreachForums hacker forum. The 70GB database contained 3.2 billion unique email addresses, but more than 90% had previously appeared in major breaches and collections. After those were removed, approximately 270 million addresses remained and were indexed for searching.",
+      "records": [
+        {
+          "Email": "jcurrie@students.hopatcongschools.org "
+        }
+      ]
+    }
+  ],
+  "raw": {
+    "List": {
+      "Alien TxtBase": {
+        "Data": [
+          {
+            "Email": "jcurrie@students.hopatcongschools.org",
+            "Password": "wholeplease81 ",
+            "Url": "accounts.google.com"
+          },
+          {
+            "Email": "jcurrie@students.hopatcongschools.org",
+            "Password": "wholeplease81 ",
+            "Url": "accounts.google.com/signin/v2/challenge/pwd"
+          }
+        ],
+        "InfoLeak": "In early 2025, a massive collection of logs was published in the Alien TxtBase Telegram channel. The data was collected using stealers, malware that steals login credentials and passwords saved in browsers. The collection contained 23 billion rows, but it included many duplicates and showed signs of generated data. After duplicates and records from naz.api and other similar breaches were removed, 2.8 billion unique records remained. They contain email addresses, phone numbers, usernames, IP addresses, plaintext passwords, and the names of websites or installed applications where they were used.",
+        "NumOfResults": 2
+      },
+      "Unique emails by Addka": {
+        "Data": [
+          {
+            "Email": "jcurrie@students.hopatcongschools.org "
+          }
+        ],
+        "InfoLeak": "In September 2024, a user named Addka72424 posted a list of email addresses collected from many different breaches on the BreachForums hacker forum. The 70GB database contained 3.2 billion unique email addresses, but more than 90% had previously appeared in major breaches and collections. After those were removed, approximately 270 million addresses remained and were indexed for searching.",
+        "NumOfResults": 1
+      }
+    },
+    "NumOfDatabase": 2,
+    "NumOfResults": 3,
+    "price": 0.003,
+    "search time": 0.015626
+  }
+}

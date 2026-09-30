@@ -1,0 +1,2615 @@
+Module: Combined Search
+Query: jlumery1456@gmail.com
+Search Type: Email
+Results: 10
+
+Success:
+  true
+Query:
+  jlumery1456@gmail.com
+Mode:
+  email
+Count:
+  10
+Credits Used:
+  5
+Searches Remaining:
+  955
+Modules:
+  [1]
+    Key:
+      snusbase
+    Label:
+      Snusbase
+    Source Type:
+      snusbase
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      367
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [2]
+    Key:
+      leakosint
+    Label:
+      LeakOSINT
+    Source Type:
+      leakosint
+    Status:
+      results
+    Count:
+      3
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      427
+    Results:
+      [1]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890 
+        Url:
+          accounts.google.com
+        Breach:
+          Alien TxtBase
+        Source:
+          Alien TxtBase
+        Num Results:
+          2
+      [2]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890 
+        Url:
+          accounts.google.com/signin/v2/challenge/pwd
+        Breach:
+          Alien TxtBase
+        Source:
+          Alien TxtBase
+        Num Results:
+          2
+      [3]
+        Email:
+          jlumery1456@gmail.com 
+        Breach:
+          Unique emails by Addka
+        Source:
+          Unique emails by Addka
+        Num Results:
+          1
+    Meta:
+      Query:
+        jlumery1456@gmail.com
+      Database Count:
+        2
+      Visible Results:
+        3
+      Limit:
+        100
+      Lang:
+        en
+      Upstream Num Results:
+        3
+      Price:
+        0.003
+      Search Time:
+        0
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [3]
+    Key:
+      leaksight
+    Label:
+      LeakSight
+    Source Type:
+      leaksight
+    Status:
+      results
+    Count:
+      3
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      2556
+    Results:
+      [1]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890
+        Source:
+          accounts.google.com/signin/v2/challenge/pwd
+        Host:
+          accounts.google.com
+        Path:
+          signin/v2/challenge/pwd
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+      [2]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890
+        Source:
+          accounts.google.com
+        Host:
+          accounts.google.com
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+      [3]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890
+        Source:
+          accounts.google.com/
+        Host:
+          accounts.google.com
+        Path:
+          /
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [4]
+    Key:
+      inf0sec
+    Label:
+      Inf0sec
+    Source Type:
+      inf0sec
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      1107
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [5]
+    Key:
+      leakcheck
+    Label:
+      LeakCheck V2
+    Source Type:
+      leakcheck
+    Status:
+      results
+    Count:
+      1
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      441
+    Results:
+      [1]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890
+        Source:
+          Stealer Logs
+        Source Info:
+          Name:
+            Stealer Logs
+          Unverified:
+            0
+          Passwordless:
+            0
+          Compilation:
+            1
+        Fields:
+          [1]
+            password
+          [2]
+            origin
+          [3]
+            email
+        Origin:
+          accounts.google.com
+        Leakcheck Type:
+          email
+    Meta:
+      Provider:
+        LeakCheck
+      Leakcheck Type:
+        email
+      Found:
+        1
+      Quota Remaining:
+        120
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [6]
+    Key:
+      oathnet
+    Label:
+      OathNet
+    Source Type:
+      oathnet
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      4572
+    Meta:
+      Query:
+        jlumery1456@gmail.com
+      Module:
+        search-breach
+      Service:
+        OathNet
+      Results Found:
+        0
+      Results Shown:
+        0
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [7]
+    Key:
+      intelvault
+    Label:
+      IntelVault
+    Source Type:
+      intelvault
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      813
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [8]
+    Key:
+      breachdirectory
+    Label:
+      BreachDirectory
+    Source Type:
+      breachdirectory
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      780
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [9]
+    Key:
+      osintcat
+    Label:
+      OsintCat
+    Source Type:
+      stealer
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      1439
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [10]
+    Key:
+      seon
+    Label:
+      SEON
+    Source Type:
+      seon
+    Status:
+      results
+    Count:
+      1
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      5195
+    Results:
+      [1]
+        Email:
+          jlumery1456@gmail.com
+        Details:
+          Id:
+            1e7ed04d-3327-4053-b833-fe19add1a1be
+          Email:
+            jlumery1456@gmail.com
+          Risk Scores:
+            Global Network Score:
+              1.41
+          Email Details:
+            Deliverable:
+              true
+            Full Inbox:
+              false
+            Valid Format:
+              true
+            Minimum Age Months:
+              42
+            Earliest Profile Date:
+              2023-03-26 05:44:26
+            Email Randomness Score:
+              2.9
+          Email Domain Details:
+            Accept All:
+              false
+            Created:
+              1995-08-13 04:00:00
+            Custom:
+              false
+            Disposable:
+              false
+            Dmarc Enforced:
+              true
+            Domain:
+              gmail.com
+            Expires:
+              2027-08-12 04:00:00
+            Free:
+              true
+            Registered:
+              true
+            Registered To:
+              Google LLC
+            Registrar Name:
+              MarkMonitor Inc.
+            Spf Strict:
+              true
+            Suspicious Tld:
+              false
+            Tld:
+              .com
+            Updated:
+              2026-07-11 10:11:23
+            Valid Mx:
+              true
+            Website Exists:
+              true
+          Account Aggregates:
+            Total Registration:
+              4
+            Business:
+              Total Registration:
+                1
+              Technology:
+                Registered:
+                  1
+                Checked:
+                  33
+              Science And Education:
+                Registered:
+                  0
+                Checked:
+                  12
+              Jobs And Employment:
+                Registered:
+                  0
+                Checked:
+                  8
+              Money Transfer Remittance:
+                Registered:
+                  0
+                Checked:
+                  4
+            Personal:
+              Total Registration:
+                3
+              Email Service:
+                Registered:
+                  1
+                Checked:
+                  2
+              Technology:
+                Registered:
+                  1
+                Checked:
+                  7
+              Adult Sites:
+                Registered:
+                  0
+                Checked:
+                  7
+              Delivery:
+                Registered:
+                  0
+                Checked:
+                  7
+              Ecommerce:
+                Registered:
+                  0
+                Checked:
+                  18
+              Entertainment:
+                Registered:
+                  1
+                Checked:
+                  42
+              Health And Fitness:
+                Registered:
+                  0
+                Checked:
+                  5
+              Social Media:
+                Registered:
+                  0
+                Checked:
+                  20
+              Travel:
+                Registered:
+                  0
+                Checked:
+                  9
+              Betting And Gaming:
+                Registered:
+                  0
+                Checked:
+                  7
+              Dating:
+                Registered:
+                  0
+                Checked:
+                  5
+              Real Estate:
+                Registered:
+                  0
+                Checked:
+                  4
+              Messenger:
+                Registered:
+                  0
+                Checked:
+                  0
+              Ai Platforms:
+                Registered:
+                  0
+                Checked:
+                  7
+          Account Details:
+            Aboutme:
+              Registered:
+                false
+            Academia:
+              Registered:
+                false
+            Adobe:
+              Registered:
+                false
+            Altbalaji:
+              Registered:
+                false
+            Amazon:
+              Registered:
+                false
+            Anghami:
+              Registered:
+                false
+            Anydo:
+              Registered:
+                false
+            Apple:
+              Registered:
+                false
+            Archive:
+              Registered:
+                false
+            Arstechnica:
+              Registered:
+                false
+            Asana:
+              Registered:
+                false
+            Atlassian:
+              Registered:
+                false
+            Autodesk:
+              Registered:
+                false
+            Babbel:
+              Registered:
+                false
+            Basecamp:
+              Registered:
+                false
+            Bitmoji:
+              Registered:
+                false
+            Bitly:
+              Registered:
+                false
+            Bodybuilding:
+              Registered:
+                false
+            Caringbridge:
+              Registered:
+                false
+            Change:
+              Registered:
+                false
+            Chess:
+              Registered:
+                false
+            Codecademy:
+              Registered:
+                false
+            Computrabajo:
+              Registered:
+                false
+            Dailymotion:
+              Registered:
+                false
+            Daraz:
+              Registered:
+                false
+            Deliveroo:
+              Registered:
+                false
+            Dhgate:
+              Registered:
+                false
+            Diigo:
+              Registered:
+                false
+            Discord:
+              Registered:
+                false
+            Disney Plus:
+              Registered:
+                false
+            Disqus:
+              Registered:
+                false
+            Dropbox:
+              Registered:
+                false
+            Economist:
+              Registered:
+                false
+            Envato:
+              Registered:
+                false
+            Espn:
+              Registered:
+                false
+            Figma:
+              Registered:
+                false
+            Flickr:
+              Registered:
+                false
+            Flipkart:
+              Registered:
+                false
+            Freelancer:
+              Registered:
+                false
+            Gaana:
+              Registered:
+                false
+            Giphy:
+              Registered:
+                false
+            Grammarly:
+              Registered:
+                false
+            Housing:
+              Registered:
+                false
+            Hubspot:
+              Registered:
+                false
+            Hulu:
+              Registered:
+                false
+            Ikman:
+              Registered:
+                false
+            Imgur:
+              Registered:
+                false
+            Indianexpress:
+              Registered:
+                false
+            Indiatimes:
+              Registered:
+                false
+            Insightly:
+              Registered:
+                false
+            Instagram:
+              Registered:
+                false
+            Irctc:
+              Registered:
+                false
+            Jeevansathi:
+              Registered:
+                false
+            Justwatch:
+              Registered:
+                false
+            Kahoot:
+              Registered:
+                false
+            Khanacademy:
+              Registered:
+                false
+            Kommo:
+              Registered:
+                false
+            Komoot:
+              Registered:
+                false
+            Lastpass:
+              Registered:
+                false
+            Lazada:
+              Registered:
+                false
+            Microsoft:
+              Registered:
+                true
+            Momoshop:
+              Registered:
+                false
+            Myanimelist:
+              Registered:
+                false
+            Myfitnesspal:
+              Registered:
+                false
+            Myspace:
+              Registered:
+                false
+            Naukri:
+              Registered:
+                false
+            Nextdoor:
+              Registered:
+                false
+            Nvidia:
+              Registered:
+                false
+            Patreon:
+              Registered:
+                false
+            Pinterest:
+              Registered:
+                false
+            Plurk:
+              Registered:
+                false
+            Polarsteps:
+              Registered:
+                false
+            Quora:
+              Registered:
+                false
+            Railyatri:
+              Registered:
+                false
+            Rappi:
+              Registered:
+                false
+            Replit:
+              Registered:
+                false
+            Seoclerks:
+              Registered:
+                false
+            Snapchat:
+              Registered:
+                false
+            Snapdeal:
+              Registered:
+                false
+            Spotify:
+              Registered:
+                true
+            Starz:
+              Registered:
+                false
+            Streamlabs:
+              Registered:
+                false
+            Talent:
+              Registered:
+                false
+            Tf1:
+              Registered:
+                false
+            Tiktok:
+              Registered:
+                false
+            Tokopedia:
+              Registered:
+                false
+            Treehouse:
+              Registered:
+                false
+            Trivago:
+              Registered:
+                false
+            Tumblr:
+              Registered:
+                false
+            Twitter:
+              Registered:
+                false
+            Unacademy:
+              Registered:
+                false
+            Venmo:
+              Registered:
+                false
+            Vimeo:
+              Registered:
+                false
+            Vivino:
+              Registered:
+                false
+            Wattpad:
+              Registered:
+                false
+            Weibo:
+              Registered:
+                false
+            Wix:
+              Registered:
+                false
+            Wordpress:
+              Registered:
+                false
+            Xing:
+              Registered:
+                false
+            Zee5:
+              Registered:
+                false
+            Zoho:
+              Registered:
+                false
+            Zomato:
+              Registered:
+                false
+            Beatstars:
+              Registered:
+                false
+            Btaskee:
+              Registered:
+                false
+            Bupa:
+              Registered:
+                false
+            Calendly:
+              Registered:
+                false
+            Cian:
+              Registered:
+                false
+            Cnn:
+              Registered:
+                false
+            Dazn:
+              Registered:
+                false
+            Duolingo:
+              Registered:
+                false
+            Ea:
+              Registered:
+                false
+            Edx:
+              Registered:
+                false
+            Expensify:
+              Registered:
+                false
+            Express:
+              Registered:
+                false
+            Facebook:
+              Registered:
+                false
+            Forbes:
+              Registered:
+                false
+            Franceinfo:
+              Registered:
+                false
+            Google:
+              Registered:
+                true
+              Last Updated:
+                1679809466
+            Gravatar:
+              Registered:
+                false
+            Imageshack:
+              Registered:
+                false
+            Indiamart:
+              Registered:
+                false
+            Linkedin:
+              Registered:
+                false
+            Chatlib:
+              Registered:
+                false
+            Deezer:
+              Registered:
+                false
+            Goodreads:
+              Registered:
+                false
+            Google Calendar:
+              Registered:
+                false
+            Kucoin:
+              Registered:
+                false
+            Loveplanet:
+              Registered:
+                false
+            Propertyfinder:
+              Registered:
+                false
+            Rocketreach:
+              Registered:
+                false
+            Shopclues:
+              Registered:
+                false
+            Starzplay:
+              Registered:
+                false
+            Tagged:
+              Registered:
+                false
+            Tunefind:
+              Registered:
+                false
+            Uaeicp:
+              Registered:
+                false
+            Untappd:
+              Registered:
+                false
+            Zoomcar:
+              Registered:
+                false
+            Microsoft Teams:
+              Registered:
+                false
+            Merriam:
+              Registered:
+                false
+            New York Post:
+              Registered:
+                false
+            New York Times:
+              Registered:
+                false
+            Nexon:
+              Registered:
+                false
+            Nrk:
+              Registered:
+                false
+            Paytm:
+              Registered:
+                false
+            Quillbot:
+              Registered:
+                false
+            Skyscanner:
+              Registered:
+                false
+            Superbet:
+              Registered:
+                false
+            Aliexpress:
+              Registered:
+                false
+            Instacart:
+              Registered:
+                false
+            Ryanair:
+              Registered:
+                false
+            Runtastic:
+              Registered:
+                false
+            Surveymonkey:
+              Registered:
+                false
+            Asus:
+              Registered:
+                false
+            Emag:
+              Registered:
+                false
+            Glovo:
+              Registered:
+                false
+            Getjusto:
+              Registered:
+                false
+            Nykaa:
+              Registered:
+                false
+            Phonepe:
+              Registered:
+                false
+            Onthemarket:
+              Registered:
+                false
+            Heb:
+              Registered:
+                false
+            Vistaprint:
+              Registered:
+                false
+            Sportsinteraction:
+              Registered:
+                false
+            Strendus:
+              Registered:
+                false
+            Caliente:
+              Registered:
+                false
+            Winpot:
+              Registered:
+                false
+            Rushbet:
+              Registered:
+                false
+            Qwen:
+              Registered:
+                false
+            Deepseek:
+              Registered:
+                false
+            Cnki:
+              Registered:
+                false
+            Nasa:
+              Registered:
+                false
+            Mdpi:
+              Registered:
+                false
+            Medal:
+              Registered:
+                false
+            Lidl:
+              Registered:
+                false
+            Meta:
+              Registered:
+                false
+            Mailchimp:
+              Registered:
+                false
+            Glassdoor:
+              Registered:
+                false
+            Tistory:
+              Registered:
+                false
+            Playpark:
+              Registered:
+                false
+            Office365:
+              Registered:
+                true
+            Vsco:
+              Registered:
+                false
+            Betathome:
+              Registered:
+                false
+            Oyorooms:
+              Registered:
+                false
+            Chatpdf:
+              Registered:
+                false
+            Dilmil:
+              Registered:
+                false
+            Liner:
+              Registered:
+                false
+            Lovable:
+              Registered:
+                false
+            Seaart:
+              Registered:
+                false
+            Skout:
+              Registered:
+                false
+            Stir:
+              Registered:
+                false
+            Windsurf:
+              Registered:
+                false
+          Seon Fraud History:
+            Fraudulent Decline Customer Hits:
+              0
+            Fraudulent Decline Hits:
+              0
+            Customer Hits:
+              0
+            Hits:
+              0
+          Breach Details:
+            Breaches:
+              [1]
+                Date:
+                  2024-05-28
+                Name:
+                  Combolists Posted to Telegram
+              [2]
+                Date:
+                  2025-01-13
+                Name:
+                  Stealer Logs, Jan 2025
+              [3]
+                Date:
+                  2025-02-15
+                Name:
+                  ALIEN TXTBASE Stealer Logs
+              [4]
+                Date:
+                  2025-05-23
+                Name:
+                  Operation Endgame 2.0
+              [5]
+                Date:
+                  2025-06-20
+                Name:
+                  Data Troll Stealer Logs
+              [6]
+                Date:
+                  2025-04-11
+                Name:
+                  Synthient Stealer Log Threat Data
+              [7]
+                Date:
+                  2025-04-11
+                Name:
+                  Synthient Credential Stuffing Threat Data
+            First Breach:
+              2024-05-28
+            Last Breach:
+              2025-06-20
+            Haveibeenpwned Listed:
+              true
+            Number Of Breaches:
+              7
+          Associated Domain Registrations:
+            Exists:
+              false
+            Number Of Domains:
+              0
+        Source:
+          SEON
+        Type:
+          seon
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [11]
+    Key:
+      hudsonrock
+    Label:
+      Hudson Rock
+    Source Type:
+      hudsonrock
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      901
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [12]
+    Key:
+      antipublic
+    Label:
+      AntiPublic
+    Source Type:
+      antipublic
+    Status:
+      results
+    Count:
+      2
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      355
+    Results:
+      [1]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite1748
+        Source:
+          AntiPublic
+      [2]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890
+        Source:
+          AntiPublic
+    Meta:
+      Query:
+        jlumery1456@gmail.com
+      Total:
+        2
+      Service:
+        AntiPublic
+      Available Queries:
+        209902
+      Page Total Results:
+        2
+      Page Number:
+        1
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+Results:
+  [1]
+    Key:
+      snusbase
+    Label:
+      Snusbase
+    Source Type:
+      snusbase
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      367
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [2]
+    Key:
+      leakosint
+    Label:
+      LeakOSINT
+    Source Type:
+      leakosint
+    Status:
+      results
+    Count:
+      3
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      427
+    Results:
+      [1]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890 
+        Url:
+          accounts.google.com
+        Breach:
+          Alien TxtBase
+        Source:
+          Alien TxtBase
+        Num Results:
+          2
+      [2]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890 
+        Url:
+          accounts.google.com/signin/v2/challenge/pwd
+        Breach:
+          Alien TxtBase
+        Source:
+          Alien TxtBase
+        Num Results:
+          2
+      [3]
+        Email:
+          jlumery1456@gmail.com 
+        Breach:
+          Unique emails by Addka
+        Source:
+          Unique emails by Addka
+        Num Results:
+          1
+    Meta:
+      Query:
+        jlumery1456@gmail.com
+      Database Count:
+        2
+      Visible Results:
+        3
+      Limit:
+        100
+      Lang:
+        en
+      Upstream Num Results:
+        3
+      Price:
+        0.003
+      Search Time:
+        0
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [3]
+    Key:
+      leaksight
+    Label:
+      LeakSight
+    Source Type:
+      leaksight
+    Status:
+      results
+    Count:
+      3
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      2556
+    Results:
+      [1]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890
+        Source:
+          accounts.google.com/signin/v2/challenge/pwd
+        Host:
+          accounts.google.com
+        Path:
+          signin/v2/challenge/pwd
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+      [2]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890
+        Source:
+          accounts.google.com
+        Host:
+          accounts.google.com
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+      [3]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890
+        Source:
+          accounts.google.com/
+        Host:
+          accounts.google.com
+        Path:
+          /
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [4]
+    Key:
+      inf0sec
+    Label:
+      Inf0sec
+    Source Type:
+      inf0sec
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      1107
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [5]
+    Key:
+      leakcheck
+    Label:
+      LeakCheck V2
+    Source Type:
+      leakcheck
+    Status:
+      results
+    Count:
+      1
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      441
+    Results:
+      [1]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890
+        Source:
+          Stealer Logs
+        Source Info:
+          Name:
+            Stealer Logs
+          Unverified:
+            0
+          Passwordless:
+            0
+          Compilation:
+            1
+        Fields:
+          [1]
+            password
+          [2]
+            origin
+          [3]
+            email
+        Origin:
+          accounts.google.com
+        Leakcheck Type:
+          email
+    Meta:
+      Provider:
+        LeakCheck
+      Leakcheck Type:
+        email
+      Found:
+        1
+      Quota Remaining:
+        120
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [6]
+    Key:
+      oathnet
+    Label:
+      OathNet
+    Source Type:
+      oathnet
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      4572
+    Meta:
+      Query:
+        jlumery1456@gmail.com
+      Module:
+        search-breach
+      Service:
+        OathNet
+      Results Found:
+        0
+      Results Shown:
+        0
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [7]
+    Key:
+      intelvault
+    Label:
+      IntelVault
+    Source Type:
+      intelvault
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      813
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [8]
+    Key:
+      breachdirectory
+    Label:
+      BreachDirectory
+    Source Type:
+      breachdirectory
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      780
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [9]
+    Key:
+      osintcat
+    Label:
+      OsintCat
+    Source Type:
+      stealer
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      1439
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [10]
+    Key:
+      seon
+    Label:
+      SEON
+    Source Type:
+      seon
+    Status:
+      results
+    Count:
+      1
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      5195
+    Results:
+      [1]
+        Email:
+          jlumery1456@gmail.com
+        Details:
+          Id:
+            1e7ed04d-3327-4053-b833-fe19add1a1be
+          Email:
+            jlumery1456@gmail.com
+          Risk Scores:
+            Global Network Score:
+              1.41
+          Email Details:
+            Deliverable:
+              true
+            Full Inbox:
+              false
+            Valid Format:
+              true
+            Minimum Age Months:
+              42
+            Earliest Profile Date:
+              2023-03-26 05:44:26
+            Email Randomness Score:
+              2.9
+          Email Domain Details:
+            Accept All:
+              false
+            Created:
+              1995-08-13 04:00:00
+            Custom:
+              false
+            Disposable:
+              false
+            Dmarc Enforced:
+              true
+            Domain:
+              gmail.com
+            Expires:
+              2027-08-12 04:00:00
+            Free:
+              true
+            Registered:
+              true
+            Registered To:
+              Google LLC
+            Registrar Name:
+              MarkMonitor Inc.
+            Spf Strict:
+              true
+            Suspicious Tld:
+              false
+            Tld:
+              .com
+            Updated:
+              2026-07-11 10:11:23
+            Valid Mx:
+              true
+            Website Exists:
+              true
+          Account Aggregates:
+            Total Registration:
+              4
+            Business:
+              Total Registration:
+                1
+              Technology:
+                Registered:
+                  1
+                Checked:
+                  33
+              Science And Education:
+                Registered:
+                  0
+                Checked:
+                  12
+              Jobs And Employment:
+                Registered:
+                  0
+                Checked:
+                  8
+              Money Transfer Remittance:
+                Registered:
+                  0
+                Checked:
+                  4
+            Personal:
+              Total Registration:
+                3
+              Email Service:
+                Registered:
+                  1
+                Checked:
+                  2
+              Technology:
+                Registered:
+                  1
+                Checked:
+                  7
+              Adult Sites:
+                Registered:
+                  0
+                Checked:
+                  7
+              Delivery:
+                Registered:
+                  0
+                Checked:
+                  7
+              Ecommerce:
+                Registered:
+                  0
+                Checked:
+                  18
+              Entertainment:
+                Registered:
+                  1
+                Checked:
+                  42
+              Health And Fitness:
+                Registered:
+                  0
+                Checked:
+                  5
+              Social Media:
+                Registered:
+                  0
+                Checked:
+                  20
+              Travel:
+                Registered:
+                  0
+                Checked:
+                  9
+              Betting And Gaming:
+                Registered:
+                  0
+                Checked:
+                  7
+              Dating:
+                Registered:
+                  0
+                Checked:
+                  5
+              Real Estate:
+                Registered:
+                  0
+                Checked:
+                  4
+              Messenger:
+                Registered:
+                  0
+                Checked:
+                  0
+              Ai Platforms:
+                Registered:
+                  0
+                Checked:
+                  7
+          Account Details:
+            Aboutme:
+              Registered:
+                false
+            Academia:
+              Registered:
+                false
+            Adobe:
+              Registered:
+                false
+            Altbalaji:
+              Registered:
+                false
+            Amazon:
+              Registered:
+                false
+            Anghami:
+              Registered:
+                false
+            Anydo:
+              Registered:
+                false
+            Apple:
+              Registered:
+                false
+            Archive:
+              Registered:
+                false
+            Arstechnica:
+              Registered:
+                false
+            Asana:
+              Registered:
+                false
+            Atlassian:
+              Registered:
+                false
+            Autodesk:
+              Registered:
+                false
+            Babbel:
+              Registered:
+                false
+            Basecamp:
+              Registered:
+                false
+            Bitmoji:
+              Registered:
+                false
+            Bitly:
+              Registered:
+                false
+            Bodybuilding:
+              Registered:
+                false
+            Caringbridge:
+              Registered:
+                false
+            Change:
+              Registered:
+                false
+            Chess:
+              Registered:
+                false
+            Codecademy:
+              Registered:
+                false
+            Computrabajo:
+              Registered:
+                false
+            Dailymotion:
+              Registered:
+                false
+            Daraz:
+              Registered:
+                false
+            Deliveroo:
+              Registered:
+                false
+            Dhgate:
+              Registered:
+                false
+            Diigo:
+              Registered:
+                false
+            Discord:
+              Registered:
+                false
+            Disney Plus:
+              Registered:
+                false
+            Disqus:
+              Registered:
+                false
+            Dropbox:
+              Registered:
+                false
+            Economist:
+              Registered:
+                false
+            Envato:
+              Registered:
+                false
+            Espn:
+              Registered:
+                false
+            Figma:
+              Registered:
+                false
+            Flickr:
+              Registered:
+                false
+            Flipkart:
+              Registered:
+                false
+            Freelancer:
+              Registered:
+                false
+            Gaana:
+              Registered:
+                false
+            Giphy:
+              Registered:
+                false
+            Grammarly:
+              Registered:
+                false
+            Housing:
+              Registered:
+                false
+            Hubspot:
+              Registered:
+                false
+            Hulu:
+              Registered:
+                false
+            Ikman:
+              Registered:
+                false
+            Imgur:
+              Registered:
+                false
+            Indianexpress:
+              Registered:
+                false
+            Indiatimes:
+              Registered:
+                false
+            Insightly:
+              Registered:
+                false
+            Instagram:
+              Registered:
+                false
+            Irctc:
+              Registered:
+                false
+            Jeevansathi:
+              Registered:
+                false
+            Justwatch:
+              Registered:
+                false
+            Kahoot:
+              Registered:
+                false
+            Khanacademy:
+              Registered:
+                false
+            Kommo:
+              Registered:
+                false
+            Komoot:
+              Registered:
+                false
+            Lastpass:
+              Registered:
+                false
+            Lazada:
+              Registered:
+                false
+            Microsoft:
+              Registered:
+                true
+            Momoshop:
+              Registered:
+                false
+            Myanimelist:
+              Registered:
+                false
+            Myfitnesspal:
+              Registered:
+                false
+            Myspace:
+              Registered:
+                false
+            Naukri:
+              Registered:
+                false
+            Nextdoor:
+              Registered:
+                false
+            Nvidia:
+              Registered:
+                false
+            Patreon:
+              Registered:
+                false
+            Pinterest:
+              Registered:
+                false
+            Plurk:
+              Registered:
+                false
+            Polarsteps:
+              Registered:
+                false
+            Quora:
+              Registered:
+                false
+            Railyatri:
+              Registered:
+                false
+            Rappi:
+              Registered:
+                false
+            Replit:
+              Registered:
+                false
+            Seoclerks:
+              Registered:
+                false
+            Snapchat:
+              Registered:
+                false
+            Snapdeal:
+              Registered:
+                false
+            Spotify:
+              Registered:
+                true
+            Starz:
+              Registered:
+                false
+            Streamlabs:
+              Registered:
+                false
+            Talent:
+              Registered:
+                false
+            Tf1:
+              Registered:
+                false
+            Tiktok:
+              Registered:
+                false
+            Tokopedia:
+              Registered:
+                false
+            Treehouse:
+              Registered:
+                false
+            Trivago:
+              Registered:
+                false
+            Tumblr:
+              Registered:
+                false
+            Twitter:
+              Registered:
+                false
+            Unacademy:
+              Registered:
+                false
+            Venmo:
+              Registered:
+                false
+            Vimeo:
+              Registered:
+                false
+            Vivino:
+              Registered:
+                false
+            Wattpad:
+              Registered:
+                false
+            Weibo:
+              Registered:
+                false
+            Wix:
+              Registered:
+                false
+            Wordpress:
+              Registered:
+                false
+            Xing:
+              Registered:
+                false
+            Zee5:
+              Registered:
+                false
+            Zoho:
+              Registered:
+                false
+            Zomato:
+              Registered:
+                false
+            Beatstars:
+              Registered:
+                false
+            Btaskee:
+              Registered:
+                false
+            Bupa:
+              Registered:
+                false
+            Calendly:
+              Registered:
+                false
+            Cian:
+              Registered:
+                false
+            Cnn:
+              Registered:
+                false
+            Dazn:
+              Registered:
+                false
+            Duolingo:
+              Registered:
+                false
+            Ea:
+              Registered:
+                false
+            Edx:
+              Registered:
+                false
+            Expensify:
+              Registered:
+                false
+            Express:
+              Registered:
+                false
+            Facebook:
+              Registered:
+                false
+            Forbes:
+              Registered:
+                false
+            Franceinfo:
+              Registered:
+                false
+            Google:
+              Registered:
+                true
+              Last Updated:
+                1679809466
+            Gravatar:
+              Registered:
+                false
+            Imageshack:
+              Registered:
+                false
+            Indiamart:
+              Registered:
+                false
+            Linkedin:
+              Registered:
+                false
+            Chatlib:
+              Registered:
+                false
+            Deezer:
+              Registered:
+                false
+            Goodreads:
+              Registered:
+                false
+            Google Calendar:
+              Registered:
+                false
+            Kucoin:
+              Registered:
+                false
+            Loveplanet:
+              Registered:
+                false
+            Propertyfinder:
+              Registered:
+                false
+            Rocketreach:
+              Registered:
+                false
+            Shopclues:
+              Registered:
+                false
+            Starzplay:
+              Registered:
+                false
+            Tagged:
+              Registered:
+                false
+            Tunefind:
+              Registered:
+                false
+            Uaeicp:
+              Registered:
+                false
+            Untappd:
+              Registered:
+                false
+            Zoomcar:
+              Registered:
+                false
+            Microsoft Teams:
+              Registered:
+                false
+            Merriam:
+              Registered:
+                false
+            New York Post:
+              Registered:
+                false
+            New York Times:
+              Registered:
+                false
+            Nexon:
+              Registered:
+                false
+            Nrk:
+              Registered:
+                false
+            Paytm:
+              Registered:
+                false
+            Quillbot:
+              Registered:
+                false
+            Skyscanner:
+              Registered:
+                false
+            Superbet:
+              Registered:
+                false
+            Aliexpress:
+              Registered:
+                false
+            Instacart:
+              Registered:
+                false
+            Ryanair:
+              Registered:
+                false
+            Runtastic:
+              Registered:
+                false
+            Surveymonkey:
+              Registered:
+                false
+            Asus:
+              Registered:
+                false
+            Emag:
+              Registered:
+                false
+            Glovo:
+              Registered:
+                false
+            Getjusto:
+              Registered:
+                false
+            Nykaa:
+              Registered:
+                false
+            Phonepe:
+              Registered:
+                false
+            Onthemarket:
+              Registered:
+                false
+            Heb:
+              Registered:
+                false
+            Vistaprint:
+              Registered:
+                false
+            Sportsinteraction:
+              Registered:
+                false
+            Strendus:
+              Registered:
+                false
+            Caliente:
+              Registered:
+                false
+            Winpot:
+              Registered:
+                false
+            Rushbet:
+              Registered:
+                false
+            Qwen:
+              Registered:
+                false
+            Deepseek:
+              Registered:
+                false
+            Cnki:
+              Registered:
+                false
+            Nasa:
+              Registered:
+                false
+            Mdpi:
+              Registered:
+                false
+            Medal:
+              Registered:
+                false
+            Lidl:
+              Registered:
+                false
+            Meta:
+              Registered:
+                false
+            Mailchimp:
+              Registered:
+                false
+            Glassdoor:
+              Registered:
+                false
+            Tistory:
+              Registered:
+                false
+            Playpark:
+              Registered:
+                false
+            Office365:
+              Registered:
+                true
+            Vsco:
+              Registered:
+                false
+            Betathome:
+              Registered:
+                false
+            Oyorooms:
+              Registered:
+                false
+            Chatpdf:
+              Registered:
+                false
+            Dilmil:
+              Registered:
+                false
+            Liner:
+              Registered:
+                false
+            Lovable:
+              Registered:
+                false
+            Seaart:
+              Registered:
+                false
+            Skout:
+              Registered:
+                false
+            Stir:
+              Registered:
+                false
+            Windsurf:
+              Registered:
+                false
+          Seon Fraud History:
+            Fraudulent Decline Customer Hits:
+              0
+            Fraudulent Decline Hits:
+              0
+            Customer Hits:
+              0
+            Hits:
+              0
+          Breach Details:
+            Breaches:
+              [1]
+                Date:
+                  2024-05-28
+                Name:
+                  Combolists Posted to Telegram
+              [2]
+                Date:
+                  2025-01-13
+                Name:
+                  Stealer Logs, Jan 2025
+              [3]
+                Date:
+                  2025-02-15
+                Name:
+                  ALIEN TXTBASE Stealer Logs
+              [4]
+                Date:
+                  2025-05-23
+                Name:
+                  Operation Endgame 2.0
+              [5]
+                Date:
+                  2025-06-20
+                Name:
+                  Data Troll Stealer Logs
+              [6]
+                Date:
+                  2025-04-11
+                Name:
+                  Synthient Stealer Log Threat Data
+              [7]
+                Date:
+                  2025-04-11
+                Name:
+                  Synthient Credential Stuffing Threat Data
+            First Breach:
+              2024-05-28
+            Last Breach:
+              2025-06-20
+            Haveibeenpwned Listed:
+              true
+            Number Of Breaches:
+              7
+          Associated Domain Registrations:
+            Exists:
+              false
+            Number Of Domains:
+              0
+        Source:
+          SEON
+        Type:
+          seon
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [11]
+    Key:
+      hudsonrock
+    Label:
+      Hudson Rock
+    Source Type:
+      hudsonrock
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      901
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [12]
+    Key:
+      antipublic
+    Label:
+      AntiPublic
+    Source Type:
+      antipublic
+    Status:
+      results
+    Count:
+      2
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      355
+    Results:
+      [1]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite1748
+        Source:
+          AntiPublic
+      [2]
+        Email:
+          jlumery1456@gmail.com
+        Password:
+          Fortnite174890
+        Source:
+          AntiPublic
+    Meta:
+      Query:
+        jlumery1456@gmail.com
+      Total:
+        2
+      Service:
+        AntiPublic
+      Available Queries:
+        209902
+      Page Total Results:
+        2
+      Page Number:
+        1
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+Meta:
+  Combined:
+    true
+  Plan:
+    annual
+  Selected Count:
+    12
+  Completed Count:
+    12
+  Modules With Results:
+    5
+  Stopped Due To Limit:
+    false
+  Stopped Due To Deadline:
+    false
+  Billing Adjusted:
+    false
+  Status Counts:
+    Results:
+      5
+    Empty:
+      7
+    Error:
+      0
+    Rate Limited:
+      0
+    Skipped:
+      0

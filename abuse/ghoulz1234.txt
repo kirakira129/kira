@@ -1,0 +1,553 @@
+{
+  "success": true,
+  "query": "ghoulz1234@gmail.com",
+  "limit": 100,
+  "lang": "en",
+  "totalDatabases": 9,
+  "results": [
+    {
+      "database": "Alien TxtBase",
+      "infoLeak": "In early 2025, a massive collection of logs was published in the Alien TxtBase Telegram channel. The data was collected using stealers, malware that steals login credentials and passwords saved in browsers. The collection contained 23 billion rows, but it included many duplicates and showed signs of generated data. After duplicates and records from naz.api and other similar breaches were removed, 2.8 billion unique records remained. They contain email addresses, phone numbers, usernames, IP addresses, plaintext passwords, and the names of websites or installed applications where they were used.",
+      "records": [
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "accounts.google.com/signin/v2/challenge/pwd",
+          "Url": "Ghoulz1234"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "Ghoulz1234 ",
+          "Url": "accounts.google.com"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "Ghoulz1234 ",
+          "Url": "accounts.google.com/signin/v2/challenge/pwd"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "Ghoulz1234 ",
+          "Url": "www.epicgames.com/id/login/epic"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "accounts.google.com/signin/v2/challenge/pwd ",
+          "Url": "Ghoulz1234"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "am132452 "
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "am132452 ",
+          "Url": "epicgames.com/"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "am132452 ",
+          "Url": "www.epicgames.com/"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "Botkyrkamk68 ",
+          "Url": "epicgames.com"
+        },
+        {
+          "Application": "com.google.android.gm",
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "Dinos2008Jim2009 "
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "epicgames.com/id/register/epic ",
+          "Url": "Ghoulz123"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "Ghoulz123 ",
+          "Url": "accounts.google.com"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "Ghoulz123 ",
+          "Url": "accounts.google.com"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "Ghoulz123 ",
+          "Url": "epicgames.com"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "ghoulz123 ",
+          "Url": "epicgames.com/id/login/epic"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "Ghoulz123 ",
+          "Url": "epicgames.com/id/register/epic"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "Ghoulz123 ",
+          "Url": "games.com/id/register/epic"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "Ghoulz123 ",
+          "Url": "www.epicgames.com/id/link/xbl/existing"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "Ghoulz123 ",
+          "Url": "www.epicgames.com/id/login/epic"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "ghoulzy ",
+          "Url": "accounts.google.com"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "guido153 ",
+          "Url": "accounts.google.com/signin/v2/challenge/pwd"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "M9dA@*WQPDGrYY$ "
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "M9dA@*WQPDGrYY$ ",
+          "Url": "fortnite.gg/account"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "mae24252326 "
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "mae24252326 ",
+          "Url": "epicgames.com/"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "mae24252326 ",
+          "Url": "www.epicgames.com/"
+        }
+      ]
+    },
+    {
+      "database": "BreachedForum Combolists",
+      "infoLeak": "Breached.vc is the best-known website for publishing various data breaches. This database contains all files from the “Combolists” section downloaded on February 22, 2023. The section contained 2,200 databases totaling 170GB of data, or 5 billion rows. After deduplication and removal of rows from collections, only 770 million remained. The data contains only email addresses and passwords.",
+      "records": [
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "ghoulz123"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "ghoulzy"
+        }
+      ]
+    },
+    {
+      "database": "Cloudata",
+      "infoLeak": "This is a large email-password data collection. The database was assembled from numerous files on May 18, 2023. Initially, all databases totaled 338 GB, or 11 billion rows. After duplicates and data from collections were removed, approximately 2 billion remained.",
+      "records": [
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "Ghoulz123"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "ghoulzy"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "ghoulzy"
+        }
+      ]
+    },
+    {
+      "database": "E-mail base for free MIX",
+      "infoLeak": "A set of several dozen databases published one by one on a Telegram channel throughout 2022. It contains 62 million email addresses. Approximately 5 million of them are accompanied by plaintext passwords.",
+      "records": [
+        {
+          "Email": "Ghoulz1234@gmail.com"
+        }
+      ]
+    },
+    {
+      "database": "LinkPass collection",
+      "infoLeak": "In 2022, a combo list containing login credentials for various websites appeared online. It was obtained using malware that steals saved browser login data. The breach contained approximately 150 million records. It listed usernames, email addresses, and phone numbers used as login identifiers, plaintext passwords, and the websites for which they were intended.",
+      "records": [
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Link": "https://www.epicgames.com/id/login/epic",
+          "Password": "Ghoulz1221"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Link": "https://www.epicgames.com/id/login/epic",
+          "Password": "Ghoulz123"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Link": "https://accounts.google.com/signin/v2/challenge/pwd",
+          "Password": "ghoulzy"
+        }
+      ]
+    },
+    {
+      "database": "Naz.api",
+      "infoLeak": "This database was created by extracting data from stealer logs. It contains saved login names and passwords from users' browsers. It contains 270 million unique records.",
+      "records": [
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "Botkyrkamk68",
+          "Url": "https://www.epicgames.com/id/link/xbl/existing"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "Ghoulz1221",
+          "Url": "https://www.epicgames.com/id/login/epic"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "Ghoulz123",
+          "Url": "https://accounts.google.com/signin/v2/challenge/pwd"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "Ghoulz123",
+          "Url": "https://www.epicgames.com/id/link/xbl/existing"
+        },
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "Ghoulz123",
+          "Url": "https://www.epicgames.com/id/login/epic"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "Ghoulz123",
+          "Url": "https://www.epicgames.com/id/login/epic"
+        },
+        {
+          "Email": "Ghoulz1234@gmail.com",
+          "Password": "ghoulzy",
+          "Url": "https://accounts.google.com/signin/v2/challenge/pwd"
+        }
+      ]
+    },
+    {
+      "database": "PasswordIndex",
+      "infoLeak": "This is a reverse index created in March 2023. It makes it possible to find all email addresses associated with a particular password. The index contains 1.3 billion unique passwords and 3.2 billion email addresses on which they were used. Enter the resulting email addresses into the search to obtain more information.",
+      "records": [
+        {
+          "Emails": "ghoulz1234@gmail.com",
+          "Password": "Ghoulz1234"
+        }
+      ]
+    },
+    {
+      "database": "Qifa860.com",
+      "infoLeak": "In late 2022, a dataset attributed to the Chinese gambling and sports betting platform Qifa860.com was published with approximately 1.2 million records. The file contained email addresses, full names, IP addresses, registration dates, and last activity dates. Most of the information is from 2020–2022, while the date of the hack itself has not been confirmed.",
+      "records": [
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "IP": "68.96.184.145",
+          "LastActive": "2021-04-29 16:06:14 ",
+          "RegDate": "2021-04-29 16:06:14"
+        }
+      ]
+    },
+    {
+      "database": "cBANK",
+      "infoLeak": "In 2022, a private combolist containing 400 million email addresses and their passwords was sold online. It contained 260 million unique rows. The combolist was sold for $650, but it is now publicly available. To make the data appear more unique, the sellers changed the letter case of some passwords and mixed in generated rows. Despite its name, this collection is unrelated to the central bank breach of March 2022.",
+      "records": [
+        {
+          "Email": "ghoulz1234@gmail.com",
+          "Password": "Ghoulz1234"
+        }
+      ]
+    }
+  ],
+  "raw": {
+    "List": {
+      "Alien TxtBase": {
+        "Data": [
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "accounts.google.com/signin/v2/challenge/pwd",
+            "Url": "Ghoulz1234"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "Ghoulz1234 ",
+            "Url": "accounts.google.com"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "Ghoulz1234 ",
+            "Url": "accounts.google.com/signin/v2/challenge/pwd"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "Ghoulz1234 ",
+            "Url": "www.epicgames.com/id/login/epic"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "accounts.google.com/signin/v2/challenge/pwd ",
+            "Url": "Ghoulz1234"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "am132452 "
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "am132452 ",
+            "Url": "epicgames.com/"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "am132452 ",
+            "Url": "www.epicgames.com/"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "Botkyrkamk68 ",
+            "Url": "epicgames.com"
+          },
+          {
+            "Application": "com.google.android.gm",
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "Dinos2008Jim2009 "
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "epicgames.com/id/register/epic ",
+            "Url": "Ghoulz123"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "Ghoulz123 ",
+            "Url": "accounts.google.com"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "Ghoulz123 ",
+            "Url": "accounts.google.com"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "Ghoulz123 ",
+            "Url": "epicgames.com"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "ghoulz123 ",
+            "Url": "epicgames.com/id/login/epic"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "Ghoulz123 ",
+            "Url": "epicgames.com/id/register/epic"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "Ghoulz123 ",
+            "Url": "games.com/id/register/epic"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "Ghoulz123 ",
+            "Url": "www.epicgames.com/id/link/xbl/existing"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "Ghoulz123 ",
+            "Url": "www.epicgames.com/id/login/epic"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "ghoulzy ",
+            "Url": "accounts.google.com"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "guido153 ",
+            "Url": "accounts.google.com/signin/v2/challenge/pwd"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "M9dA@*WQPDGrYY$ "
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "M9dA@*WQPDGrYY$ ",
+            "Url": "fortnite.gg/account"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "mae24252326 "
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "mae24252326 ",
+            "Url": "epicgames.com/"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "mae24252326 ",
+            "Url": "www.epicgames.com/"
+          }
+        ],
+        "InfoLeak": "In early 2025, a massive collection of logs was published in the Alien TxtBase Telegram channel. The data was collected using stealers, malware that steals login credentials and passwords saved in browsers. The collection contained 23 billion rows, but it included many duplicates and showed signs of generated data. After duplicates and records from naz.api and other similar breaches were removed, 2.8 billion unique records remained. They contain email addresses, phone numbers, usernames, IP addresses, plaintext passwords, and the names of websites or installed applications where they were used.",
+        "NumOfResults": 26
+      },
+      "BreachedForum Combolists": {
+        "Data": [
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "ghoulz123"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "ghoulzy"
+          }
+        ],
+        "InfoLeak": "Breached.vc is the best-known website for publishing various data breaches. This database contains all files from the “Combolists” section downloaded on February 22, 2023. The section contained 2,200 databases totaling 170GB of data, or 5 billion rows. After deduplication and removal of rows from collections, only 770 million remained. The data contains only email addresses and passwords.",
+        "NumOfResults": 2
+      },
+      "Cloudata": {
+        "Data": [
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "Ghoulz123"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "ghoulzy"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "ghoulzy"
+          }
+        ],
+        "InfoLeak": "This is a large email-password data collection. The database was assembled from numerous files on May 18, 2023. Initially, all databases totaled 338 GB, or 11 billion rows. After duplicates and data from collections were removed, approximately 2 billion remained.",
+        "NumOfResults": 3
+      },
+      "E-mail base for free MIX": {
+        "Data": [
+          {
+            "Email": "Ghoulz1234@gmail.com"
+          }
+        ],
+        "InfoLeak": "A set of several dozen databases published one by one on a Telegram channel throughout 2022. It contains 62 million email addresses. Approximately 5 million of them are accompanied by plaintext passwords.",
+        "NumOfResults": 1
+      },
+      "LinkPass collection": {
+        "Data": [
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Link": "https://www.epicgames.com/id/login/epic",
+            "Password": "Ghoulz1221"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Link": "https://www.epicgames.com/id/login/epic",
+            "Password": "Ghoulz123"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Link": "https://accounts.google.com/signin/v2/challenge/pwd",
+            "Password": "ghoulzy"
+          }
+        ],
+        "InfoLeak": "In 2022, a combo list containing login credentials for various websites appeared online. It was obtained using malware that steals saved browser login data. The breach contained approximately 150 million records. It listed usernames, email addresses, and phone numbers used as login identifiers, plaintext passwords, and the websites for which they were intended.",
+        "NumOfResults": 3
+      },
+      "Naz.api": {
+        "Data": [
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "Botkyrkamk68",
+            "Url": "https://www.epicgames.com/id/link/xbl/existing"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "Ghoulz1221",
+            "Url": "https://www.epicgames.com/id/login/epic"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "Ghoulz123",
+            "Url": "https://accounts.google.com/signin/v2/challenge/pwd"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "Ghoulz123",
+            "Url": "https://www.epicgames.com/id/link/xbl/existing"
+          },
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "Ghoulz123",
+            "Url": "https://www.epicgames.com/id/login/epic"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "Ghoulz123",
+            "Url": "https://www.epicgames.com/id/login/epic"
+          },
+          {
+            "Email": "Ghoulz1234@gmail.com",
+            "Password": "ghoulzy",
+            "Url": "https://accounts.google.com/signin/v2/challenge/pwd"
+          }
+        ],
+        "InfoLeak": "This database was created by extracting data from stealer logs. It contains saved login names and passwords from users' browsers. It contains 270 million unique records.",
+        "NumOfResults": 7
+      },
+      "PasswordIndex": {
+        "Data": [
+          {
+            "Emails": "ghoulz1234@gmail.com",
+            "Password": "Ghoulz1234"
+          }
+        ],
+        "InfoLeak": "This is a reverse index created in March 2023. It makes it possible to find all email addresses associated with a particular password. The index contains 1.3 billion unique passwords and 3.2 billion email addresses on which they were used. Enter the resulting email addresses into the search to obtain more information.",
+        "NumOfResults": 1
+      },
+      "Qifa860.com": {
+        "Data": [
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "IP": "68.96.184.145",
+            "LastActive": "2021-04-29 16:06:14 ",
+            "RegDate": "2021-04-29 16:06:14"
+          }
+        ],
+        "InfoLeak": "In late 2022, a dataset attributed to the Chinese gambling and sports betting platform Qifa860.com was published with approximately 1.2 million records. The file contained email addresses, full names, IP addresses, registration dates, and last activity dates. Most of the information is from 2020–2022, while the date of the hack itself has not been confirmed.",
+        "NumOfResults": 1
+      },
+      "cBANK": {
+        "Data": [
+          {
+            "Email": "ghoulz1234@gmail.com",
+            "Password": "Ghoulz1234"
+          }
+        ],
+        "InfoLeak": "In 2022, a private combolist containing 400 million email addresses and their passwords was sold online. It contained 260 million unique rows. The combolist was sold for $650, but it is now publicly available. To make the data appear more unique, the sellers changed the letter case of some passwords and mixed in generated rows. Despite its name, this collection is unrelated to the central bank breach of March 2022.",
+        "NumOfResults": 1
+      }
+    },
+    "NumOfDatabase": 9,
+    "NumOfResults": 45,
+    "price": 0.003,
+    "search time": 0.0113273
+  }
+}

@@ -1,0 +1,903 @@
+Module: Combined Search
+Query: jlumery117@gmail.com
+Search Type: Email
+Results: 3
+
+Success:
+  true
+Query:
+  jlumery117@gmail.com
+Mode:
+  email
+Count:
+  3
+Credits Used:
+  3
+Searches Remaining:
+  968 left
+Modules:
+  [1]
+    Key:
+      snusbase
+    Label:
+      Snusbase
+    Source Type:
+      snusbase
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      334
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [2]
+    Key:
+      leakosint
+    Label:
+      LeakOSINT
+    Source Type:
+      leakosint
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      430
+    Meta:
+      Query:
+        jlumery117@gmail.com
+      Database Count:
+        1
+      Visible Results:
+        0
+      Limit:
+        100
+      Lang:
+        en
+      Upstream Num Results:
+        1
+      Price:
+        0.003
+      Search Time:
+        0
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [3]
+    Key:
+      leaksight
+    Label:
+      LeakSight
+    Source Type:
+      leaksight
+    Status:
+      results
+    Count:
+      1
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      3258
+    Results:
+      [1]
+        Email:
+          jlumery117@gmail.com
+        Password:
+          4ca.gj9AgRTY94i
+        Source:
+          signup.ebay.com
+        Host:
+          signup.ebay.com
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [4]
+    Key:
+      inf0sec
+    Label:
+      Inf0sec
+    Source Type:
+      inf0sec
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      825
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [5]
+    Key:
+      leakcheck
+    Label:
+      LeakCheck V2
+    Source Type:
+      leakcheck
+    Status:
+      results
+    Count:
+      1
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      506
+    Results:
+      [1]
+        Email:
+          jlumery117@gmail.com
+        Password:
+          4ca.gj9AgRTY94i
+        Source:
+          Stealer Logs
+        Source Info:
+          Name:
+            Stealer Logs
+          Unverified:
+            0
+          Passwordless:
+            0
+          Compilation:
+            1
+        Fields:
+          [1]
+            password
+          [2]
+            origin
+          [3]
+            email
+        Origin:
+          signup.ebay.com
+        Leakcheck Type:
+          email
+    Meta:
+      Provider:
+        LeakCheck
+      Leakcheck Type:
+        email
+      Found:
+        1
+      Quota Remaining:
+        122
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [6]
+    Key:
+      oathnet
+    Label:
+      OathNet
+    Source Type:
+      oathnet
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      661
+    Meta:
+      Query:
+        jlumery117@gmail.com
+      Module:
+        search-breach
+      Service:
+        OathNet
+      Results Found:
+        0
+      Results Shown:
+        0
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [7]
+    Key:
+      intelvault
+    Label:
+      IntelVault
+    Source Type:
+      intelvault
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      944
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [8]
+    Key:
+      breachdirectory
+    Label:
+      BreachDirectory
+    Source Type:
+      breachdirectory
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      3271
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [9]
+    Key:
+      osintcat
+    Label:
+      OsintCat
+    Source Type:
+      stealer
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      1470
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [10]
+    Key:
+      seon
+    Label:
+      SEON
+    Source Type:
+      seon
+    Status:
+      pending
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      Waiting for this module to finish.
+    Http Status:
+      0
+    Latency Ms:
+      0
+  [11]
+    Key:
+      hudsonrock
+    Label:
+      Hudson Rock
+    Source Type:
+      hudsonrock
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      881
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [12]
+    Key:
+      antipublic
+    Label:
+      AntiPublic
+    Source Type:
+      antipublic
+    Status:
+      results
+    Count:
+      1
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      361
+    Results:
+      [1]
+        Email:
+          jlumery117@gmail.com
+        Password:
+          4ca.gj9AgRTY94i
+        Source:
+          AntiPublic
+    Meta:
+      Query:
+        jlumery117@gmail.com
+      Total:
+        1
+      Service:
+        AntiPublic
+      Available Queries:
+        209904
+      Page Total Results:
+        1
+      Page Number:
+        1
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [13]
+    Key:
+      breachbase
+    Label:
+      BreachBase
+    Source Type:
+      breachbase
+    Status:
+      pending
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      Waiting for this module to finish.
+    Http Status:
+      0
+    Latency Ms:
+      0
+Results:
+  [1]
+    Key:
+      snusbase
+    Label:
+      Snusbase
+    Source Type:
+      snusbase
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      334
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [2]
+    Key:
+      leakosint
+    Label:
+      LeakOSINT
+    Source Type:
+      leakosint
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      430
+    Meta:
+      Query:
+        jlumery117@gmail.com
+      Database Count:
+        1
+      Visible Results:
+        0
+      Limit:
+        100
+      Lang:
+        en
+      Upstream Num Results:
+        1
+      Price:
+        0.003
+      Search Time:
+        0
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [3]
+    Key:
+      leaksight
+    Label:
+      LeakSight
+    Source Type:
+      leaksight
+    Status:
+      results
+    Count:
+      1
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      3258
+    Results:
+      [1]
+        Email:
+          jlumery117@gmail.com
+        Password:
+          4ca.gj9AgRTY94i
+        Source:
+          signup.ebay.com
+        Host:
+          signup.ebay.com
+        Search Type:
+          username
+        Leaksight Type:
+          database_url
+        Type:
+          leaksight
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [4]
+    Key:
+      inf0sec
+    Label:
+      Inf0sec
+    Source Type:
+      inf0sec
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      825
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [5]
+    Key:
+      leakcheck
+    Label:
+      LeakCheck V2
+    Source Type:
+      leakcheck
+    Status:
+      results
+    Count:
+      1
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      506
+    Results:
+      [1]
+        Email:
+          jlumery117@gmail.com
+        Password:
+          4ca.gj9AgRTY94i
+        Source:
+          Stealer Logs
+        Source Info:
+          Name:
+            Stealer Logs
+          Unverified:
+            0
+          Passwordless:
+            0
+          Compilation:
+            1
+        Fields:
+          [1]
+            password
+          [2]
+            origin
+          [3]
+            email
+        Origin:
+          signup.ebay.com
+        Leakcheck Type:
+          email
+    Meta:
+      Provider:
+        LeakCheck
+      Leakcheck Type:
+        email
+      Found:
+        1
+      Quota Remaining:
+        122
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [6]
+    Key:
+      oathnet
+    Label:
+      OathNet
+    Source Type:
+      oathnet
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      661
+    Meta:
+      Query:
+        jlumery117@gmail.com
+      Module:
+        search-breach
+      Service:
+        OathNet
+      Results Found:
+        0
+      Results Shown:
+        0
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [7]
+    Key:
+      intelvault
+    Label:
+      IntelVault
+    Source Type:
+      intelvault
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      944
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [8]
+    Key:
+      breachdirectory
+    Label:
+      BreachDirectory
+    Source Type:
+      breachdirectory
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      3271
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [9]
+    Key:
+      osintcat
+    Label:
+      OsintCat
+    Source Type:
+      stealer
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      1470
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [10]
+    Key:
+      seon
+    Label:
+      SEON
+    Source Type:
+      seon
+    Status:
+      pending
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      Waiting for this module to finish.
+    Http Status:
+      0
+    Latency Ms:
+      0
+  [11]
+    Key:
+      hudsonrock
+    Label:
+      Hudson Rock
+    Source Type:
+      hudsonrock
+    Status:
+      empty
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      No results found for this module.
+    Http Status:
+      200
+    Latency Ms:
+      881
+    Meta:
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [12]
+    Key:
+      antipublic
+    Label:
+      AntiPublic
+    Source Type:
+      antipublic
+    Status:
+      results
+    Count:
+      1
+    Billable:
+      true
+    Http Status:
+      200
+    Latency Ms:
+      361
+    Results:
+      [1]
+        Email:
+          jlumery117@gmail.com
+        Password:
+          4ca.gj9AgRTY94i
+        Source:
+          AntiPublic
+    Meta:
+      Query:
+        jlumery117@gmail.com
+      Total:
+        1
+      Service:
+        AntiPublic
+      Available Queries:
+        209904
+      Page Total Results:
+        1
+      Page Number:
+        1
+      Combined Runner:
+        Attempt:
+          1
+        Retry Count:
+          0
+        Retry Reason:
+          initial
+  [13]
+    Key:
+      breachbase
+    Label:
+      BreachBase
+    Source Type:
+      breachbase
+    Status:
+      pending
+    Count:
+      0
+    Billable:
+      false
+    Message:
+      Waiting for this module to finish.
+    Http Status:
+      0
+    Latency Ms:
+      0
+Meta:
+  Combined:
+    true
+  Plan:
+    annual
+  Selected Count:
+    13
+  Completed Count:
+    11
+  Modules With Results:
+    3
+  Stopped Due To Limit:
+    false
+  Billing Adjusted:
+    false
+  Stream Complete:
+    false
+  Status Counts:
+    Results:
+      3
+    Pending:
+      2
+    Empty:
+      8
+    Error:
+      0
+    Rate Limited:
+      0
+    Skipped:
+      0

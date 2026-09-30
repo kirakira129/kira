@@ -1,0 +1,235 @@
+{
+  "success": true,
+  "query": "jacobcurrie@gmail.com",
+  "limit": 100,
+  "lang": "en",
+  "totalDatabases": 8,
+  "results": [
+    {
+      "database": "BlankMediaGames",
+      "infoLeak": "In December 2018, the Town of Salem website created by BlankMediaGames suffered a data breach. The data contained 7.6 million unique email addresses. The leak also included names, IP addresses, purchase histories, and passwords in the form of phpass hashes. BlankMediaGames did not respond to numerous attempts to contact it about the incident.",
+      "records": [
+        {
+          "Email": "jacobcurrie@gmail.com",
+          "IP": "208.54.220.198",
+          "NickName": "1jacob",
+          "Password(Hash)": "$H$9EQY3m2xV3eOo4Ck98czzI3mtRoVH9."
+        },
+        {
+          "Email": "jacobcurrie@gmail.com",
+          "Password": "1jacob"
+        }
+      ]
+    },
+    {
+      "database": "BreachedForum Combolists",
+      "infoLeak": "Breached.vc is the best-known website for publishing various data breaches. This database contains all files from the “Combolists” section downloaded on February 22, 2023. The section contained 2,200 databases totaling 170GB of data, or 5 billion rows. After deduplication and removal of rows from collections, only 770 million remained. The data contains only email addresses and passwords.",
+      "records": [
+        {
+          "Email": "jacobcurrie@gmail.com",
+          "Password": "curriehockey"
+        }
+      ]
+    },
+    {
+      "database": "Cloudata",
+      "infoLeak": "This is a large email-password data collection. The database was assembled from numerous files on May 18, 2023. Initially, all databases totaled 338 GB, or 11 billion rows. After duplicates and data from collections were removed, approximately 2 billion remained.",
+      "records": [
+        {
+          "Email": "jacobcurrie@gmail.com",
+          "Password": "1jacob"
+        },
+        {
+          "Email": "jacobcurrie@gmail.com",
+          "Password": "qkqh1212"
+        },
+        {
+          "Email": "jacobcurrie@gmail.com",
+          "Password": "Sidemendidk"
+        }
+      ]
+    },
+    {
+      "database": "Ga$$Pacc",
+      "infoLeak": "In 2020, a collection of decrypted databases containing 580 million email addresses and their passwords became publicly available. The data came from 243 different breaches and contained only email addresses and unencrypted passwords.",
+      "records": [
+        {
+          "Email": "jacobcurrie@gmail.com",
+          "LeakSite": "BlankMediaGames.com",
+          "Password": "1jacob"
+        },
+        {
+          "Email": "jacobcurrie@gmail.com",
+          "LeakSite": "Myheritage.com",
+          "Password": "qkqh1212"
+        },
+        {
+          "Email": "JacobCurrie@gmail.com",
+          "LeakSite": "Tunngle.net",
+          "Password": "qkqh1212"
+        }
+      ]
+    },
+    {
+      "database": "MyHeritage",
+      "infoLeak": "In October 2017, the genealogy website MyHeritage suffered a breach. It became known seven months later. More than 92 million customer records were exposed, including email addresses and passwords stored as salted SHA-1 hashes.",
+      "records": [
+        {
+          "Email": "jacobcurrie@gmail.com",
+          "Password": "qkqh1212"
+        }
+      ]
+    },
+    {
+      "database": "Quidd",
+      "infoLeak": "Quidd is an online marketplace for trading stickers, cards, toys, and other collectibles. In 2019, it suffered a data breach. The incident exposed email addresses, usernames, and passwords stored as bcrypt hashes. Almost 4 million users were affected. The data was subsequently sold and then widely distributed through hacking forums.",
+      "records": [
+        {
+          "Email": "jacobcurrie@gmail.com",
+          "NickName": "sidemendidk",
+          "Password(bcrypt)": "$2a$10$FdkmP3g7GZRj.K56k9uWLudgDmihJL7wjHu2Sgq8sRi0VMe8ntcAm"
+        }
+      ]
+    },
+    {
+      "database": "TeraBase64",
+      "infoLeak": "A huge collection of files published in February 2020 by a person using the alias @HTTSMVKCOM. It contained 3.2 billion rows with email addresses and plain-text passwords, but only 1.28 billion rows were unique. All this data was most likely obtained from numerous other leaks.",
+      "records": [
+        {
+          "Email": "jacobcurrie@gmail.com",
+          "Password": "1jacob"
+        }
+      ]
+    },
+    {
+      "database": "Twitter 200M",
+      "infoLeak": "In January 2022, a vulnerability in the Twitter platform allowed a hacker to create a database of email addresses and phone numbers belonging to 200 million users of the social platform. In August 2022, Twitter stated that the vulnerability was related to a bug introduced in June 2021. The data included email addresses, phone numbers, usernames, biographies, locations, and profile photographs.",
+      "records": [
+        {
+          "Email": "jacobcurrie@gmail.com",
+          "Followers": "57",
+          "FullName": "Jacob Currie",
+          "NickName": "jmrcurrie",
+          "RegDate": "06.11.2017 21:56:52"
+        }
+      ]
+    }
+  ],
+  "raw": {
+    "List": {
+      "BlankMediaGames": {
+        "Data": [
+          {
+            "Email": "jacobcurrie@gmail.com",
+            "IP": "208.54.220.198",
+            "NickName": "1jacob",
+            "Password(Hash)": "$H$9EQY3m2xV3eOo4Ck98czzI3mtRoVH9."
+          },
+          {
+            "Email": "jacobcurrie@gmail.com",
+            "Password": "1jacob"
+          }
+        ],
+        "InfoLeak": "In December 2018, the Town of Salem website created by BlankMediaGames suffered a data breach. The data contained 7.6 million unique email addresses. The leak also included names, IP addresses, purchase histories, and passwords in the form of phpass hashes. BlankMediaGames did not respond to numerous attempts to contact it about the incident.",
+        "NumOfResults": 2
+      },
+      "BreachedForum Combolists": {
+        "Data": [
+          {
+            "Email": "jacobcurrie@gmail.com",
+            "Password": "curriehockey"
+          }
+        ],
+        "InfoLeak": "Breached.vc is the best-known website for publishing various data breaches. This database contains all files from the “Combolists” section downloaded on February 22, 2023. The section contained 2,200 databases totaling 170GB of data, or 5 billion rows. After deduplication and removal of rows from collections, only 770 million remained. The data contains only email addresses and passwords.",
+        "NumOfResults": 1
+      },
+      "Cloudata": {
+        "Data": [
+          {
+            "Email": "jacobcurrie@gmail.com",
+            "Password": "1jacob"
+          },
+          {
+            "Email": "jacobcurrie@gmail.com",
+            "Password": "qkqh1212"
+          },
+          {
+            "Email": "jacobcurrie@gmail.com",
+            "Password": "Sidemendidk"
+          }
+        ],
+        "InfoLeak": "This is a large email-password data collection. The database was assembled from numerous files on May 18, 2023. Initially, all databases totaled 338 GB, or 11 billion rows. After duplicates and data from collections were removed, approximately 2 billion remained.",
+        "NumOfResults": 3
+      },
+      "Ga$$Pacc": {
+        "Data": [
+          {
+            "Email": "jacobcurrie@gmail.com",
+            "LeakSite": "BlankMediaGames.com",
+            "Password": "1jacob"
+          },
+          {
+            "Email": "jacobcurrie@gmail.com",
+            "LeakSite": "Myheritage.com",
+            "Password": "qkqh1212"
+          },
+          {
+            "Email": "JacobCurrie@gmail.com",
+            "LeakSite": "Tunngle.net",
+            "Password": "qkqh1212"
+          }
+        ],
+        "InfoLeak": "In 2020, a collection of decrypted databases containing 580 million email addresses and their passwords became publicly available. The data came from 243 different breaches and contained only email addresses and unencrypted passwords.",
+        "NumOfResults": 3
+      },
+      "MyHeritage": {
+        "Data": [
+          {
+            "Email": "jacobcurrie@gmail.com",
+            "Password": "qkqh1212"
+          }
+        ],
+        "InfoLeak": "In October 2017, the genealogy website MyHeritage suffered a breach. It became known seven months later. More than 92 million customer records were exposed, including email addresses and passwords stored as salted SHA-1 hashes.",
+        "NumOfResults": 1
+      },
+      "Quidd": {
+        "Data": [
+          {
+            "Email": "jacobcurrie@gmail.com",
+            "NickName": "sidemendidk",
+            "Password(bcrypt)": "$2a$10$FdkmP3g7GZRj.K56k9uWLudgDmihJL7wjHu2Sgq8sRi0VMe8ntcAm"
+          }
+        ],
+        "InfoLeak": "Quidd is an online marketplace for trading stickers, cards, toys, and other collectibles. In 2019, it suffered a data breach. The incident exposed email addresses, usernames, and passwords stored as bcrypt hashes. Almost 4 million users were affected. The data was subsequently sold and then widely distributed through hacking forums.",
+        "NumOfResults": 1
+      },
+      "TeraBase64": {
+        "Data": [
+          {
+            "Email": "jacobcurrie@gmail.com",
+            "Password": "1jacob"
+          }
+        ],
+        "InfoLeak": "A huge collection of files published in February 2020 by a person using the alias @HTTSMVKCOM. It contained 3.2 billion rows with email addresses and plain-text passwords, but only 1.28 billion rows were unique. All this data was most likely obtained from numerous other leaks.",
+        "NumOfResults": 1
+      },
+      "Twitter 200M": {
+        "Data": [
+          {
+            "Email": "jacobcurrie@gmail.com",
+            "Followers": "57",
+            "FullName": "Jacob Currie",
+            "NickName": "jmrcurrie",
+            "RegDate": "06.11.2017 21:56:52"
+          }
+        ],
+        "InfoLeak": "In January 2022, a vulnerability in the Twitter platform allowed a hacker to create a database of email addresses and phone numbers belonging to 200 million users of the social platform. In August 2022, Twitter stated that the vulnerability was related to a bug introduced in June 2021. The data included email addresses, phone numbers, usernames, biographies, locations, and profile photographs.",
+        "NumOfResults": 1
+      }
+    },
+    "NumOfDatabase": 8,
+    "NumOfResults": 13,
+    "price": 0.003,
+    "search time": 0.0352437
+  }
+}
