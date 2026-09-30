@@ -114,6 +114,99 @@ body {
 </html>`;
 }
 
+async function loadTreeData() {
+  try {
+    const res = await fetch('./js/imgsData.js', { cache: 'no-store' });
+    const text = await res.text();
+    const cleaned = text.replace(/^const\s+IMG_TREE\s*=\s*/, '');
+    const data = Function('return ' + cleaned)();
+    return data && typeof data === 'object' ? data : {};
+  } catch (err) {
+    return {};
+  }
+}
+
+function resolveFolder(tree, segs) {
+  let node = tree;
+  for (const s of segs) {
+    if (!node || !Object.prototype.hasOwnProperty.call(node, s)) return null;
+    node = node[s];
+  }
+  return node && typeof node === 'object' && node !== null ? node : null;
+}
+
+function treeListHtml(node, prefix) {
+  return Object.keys(node)
+    .map((name) => {
+      const rel = prefix + name;
+      if (node[name] === null) {
+        return `<li class="file"><a href="${rel}">${name}</a></li>`;
+      }
+      return `<li class="folder"><details open><summary>${name}/</summary><ul>${treeListHtml(node[name], rel + '/')}</ul></details></li>`;
+    })
+    .join('');
+}
+
+function formatTreePage(requestUrl, folderName, listHtml) {
+  const u = new URL(requestUrl);
+  const prefix = relPrefix(u.pathname);
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>${folderName}</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: #000000;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  font-family: monospace;
+}
+.fig {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  padding: 16px;
+  max-width: 100%;
+}
+.fig img { display: block; }
+.fig .fig-logo { width: 140px; height: auto; }
+.fig .fig-small { width: 40px; height: auto; }
+.fig .fig-name { font-size: 16px; letter-spacing: 1px; }
+.tree {
+  background: #111111;
+  border: 1px solid #ffffff;
+  padding: 24px;
+  max-width: 100%;
+  max-height: 65vh;
+  overflow: auto;
+  font-size: 13px;
+  line-height: 1.6;
+}
+.tree ul { list-style: none; padding-left: 18px; }
+.tree summary { cursor: pointer; }
+.tree summary:hover { color: #cccccc; }
+.tree a { color: #ffffff; text-decoration: none; }
+.tree a:hover { text-decoration: underline; color: #cccccc; }
+</style>
+</head>
+<body>
+  <div class="fig">
+    <img src="${prefix}img/deathnotelogo.png" alt="" class="fig-logo">
+    <img src="${prefix}img/small.png" alt="" class="fig-small">
+    <div class="fig-name">${folderName}/</div>
+    <div class="tree"><ul>${listHtml}</ul></div>
+  </div>
+</body>
+</html>`;
+}
+
 self.addEventListener('install', (event) => {
   self.skipWaiting();
 });
@@ -127,13 +220,27 @@ self.addEventListener('fetch', (event) => {
   if (event.request.method !== 'GET') return;
   if (url.pathname.split('/').includes('img')) return;
 
-  const isFile = ALL_EXTS.some((ext) => url.pathname.toLowerCase().endsWith(ext));
-  if (!isFile) return;
-
+  const lower = url.pathname.toLowerCase();
+  const isFile = ALL_EXTS.some((ext) => lower.endsWith(ext));
   const isNavigation = event.request.destination === 'document' || event.request.mode === 'navigate';
   if (!isNavigation) return;
 
-  const lower = url.pathname.toLowerCase();
+  if (!isFile) {
+    const segs = url.pathname.split('/').filter(Boolean);
+    if (segs.length === 0) return;
+    event.respondWith(
+      loadTreeData().then((tree) => {
+        const node = resolveFolder(tree, segs);
+        if (!node) return fetch(event.request);
+        const folderName = segs[segs.length - 1];
+        const listHtml = treeListHtml(node, segs.join('/') + '/');
+        return new Response(formatTreePage(event.request.url, folderName, listHtml), {
+          headers: { 'Content-Type': 'text/html; charset=utf-8' },
+        });
+      })
+    );
+    return;
+  }
 
   if (PDF_EXTS.some((ext) => lower.endsWith(ext))) {
     event.respondWith(fetch(event.request));
