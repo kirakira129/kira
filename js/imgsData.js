@@ -30,6 +30,7 @@ const IMG_TREE = {
     'jlumery117.txt': null,
     'jacobcurrie.txt': null,
     'ghoulz1234.txt': null,
+    'currie06.txt': null,
   },
   profit: {
     'profitface.png': null,
