@@ -1,0 +1,838 @@
+{
+  "success": true,
+  "query": "kimber62372@gmail.com",
+  "limit": 100,
+  "lang": "en",
+  "totalDatabases": 25,
+  "results": [
+    {
+      "database": "23 Million BTC Combos",
+      "infoLeak": "In 2019, a list of email addresses and plaintext passwords was published online. The collection included 23 million records gathered from cryptocurrency-related websites. It was used to compromise accounts on cryptocurrency exchanges.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "3OqFkyuop3D"
+        }
+      ]
+    },
+    {
+      "database": "AdultFriendFinder 2016",
+      "infoLeak": "In October 2016, the adult entertainment company Friend Finder suffered a massive data breach. The exposed data included names, passwords stored as SHA-1 hashes, and 170 million unique email addresses. The company had previously been hacked in May 2015, but that breach contained only 4 million records.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com@deleted1.com",
+          "Lang": "english",
+          "LastActive": "2009-11-01 12:01:29",
+          "NickName": "rm_funcple2nite",
+          "Password(SHA1)": "AJSDK"
+        },
+        {
+          "Email": "kimber62372@gmail.com@deleted2.com",
+          "Lang": "english",
+          "LastActive": "2014-01-13 23:38:35",
+          "NickName": "rm_stillhope2",
+          "Password(SHA1)": "b36f83ef21b28dd7fab280cd4cd391357b035b9c"
+        }
+      ]
+    },
+    {
+      "database": "Appen",
+      "infoLeak": "In June 2020, the AI training company Appen suffered a data breach. Data on 5.9 million users was exposed and later sold online. The data included email addresses and passwords stored as bcrypt hashes. Some records also contained employer phone numbers and IP addresses.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "FullName": "Kim Currie",
+          "RegDate": "2018-06-05 19:55:13.068659",
+          "SignCount": "0"
+        }
+      ]
+    },
+    {
+      "database": "BreachedForum Combolists",
+      "infoLeak": "Breached.vc is the best-known website for publishing various data breaches. This database contains all files from the “Combolists” section downloaded on February 22, 2023. The section contained 2,200 databases totaling 170GB of data, or 5 billion rows. After deduplication and removal of rows from collections, only 770 million remained. The data contains only email addresses and passwords.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "Canva",
+      "infoLeak": "In May 2019, the graphic design tool website Canva was breached. The breach affected 137 million subscribers. The exposed data included email addresses, names, cities of residence, and additional information.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "Lang": "en",
+          "NickName": "kimber623728",
+          "RegDate": "2017-01-15 04:07:29"
+        }
+      ]
+    },
+    {
+      "database": "Cloudata",
+      "infoLeak": "This is a large email-password data collection. The database was assembled from numerous files on May 18, 2023. Initially, all databases totaled 338 GB, or 11 billion rows. After duplicates and data from collections were removed, approximately 2 billion remained.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "acoupleofnuts"
+        },
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "Collection",
+      "infoLeak": "In January 2019, a five-part collection combining data from different websites appeared on a hacker forum. The collection contained 108 thousand files with a total size of 870 GB. These files contained 26 billion rows with an email address and password. However, many values were repeated multiple times, and there were only 4.3 billion unique pairs. Nevertheless, this collection is considered the largest leak in history.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "3OqFkyuop3D"
+        },
+        {
+          "CollectionNumbers": "2,4",
+          "Email": "kimber62372@gmail.com",
+          "Password": "nbcourt1"
+        }
+      ]
+    },
+    {
+      "database": "Collection #1",
+      "infoLeak": "In January 2019, 5 collections combining data from numerous other leaks appeared on a popular hacker forum. This was the first collection discovered. It contained 12.300 files with a total size of 87 GB. The collection had more than 2.5 billion rows of email addresses and corresponding passwords, but only 1.25 billion unique rows. For many rows, the website where the leak occurred was specified.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "LeakSite": "Zoosk.com [53,782,400]",
+          "Password": "nbcourt1"
+        }
+      ]
+    },
+    {
+      "database": "Collection #2",
+      "infoLeak": "In January 2019, 5 collections combining data from numerous other leaks appeared on a popular hacker forum. This was the second collection and the largest of them all, containing 20 thousand files totaling 526 GB. These files contained 15.8 billion rows of email addresses and passwords, but only 3.2 billion unique pairs.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "3oqfkyuop3d"
+        }
+      ]
+    },
+    {
+      "database": "Collection of 7651 databases",
+      "infoLeak": "In December 2022, all databases from a hacker data-trading website were released publicly. A total of 7,651 leaks were published. The data contained only email addresses and plaintext passwords, totaling 493 million records across all databases.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "LeakSite": "mo_4",
+          "Password": "3OqFkyuop3D"
+        },
+        {
+          "Email": "kimber62372@gmail.com",
+          "LeakSite": "money 1.11.2017",
+          "Password": "3OqFkyuop3D"
+        }
+      ]
+    },
+    {
+      "database": "CryptoArchiveNoPublik",
+      "infoLeak": "This is a large collection of email addresses and corresponding passwords assembled in 2022 from cryptocurrency-related leaks. It contains 71 million rows and was allegedly used to compromise accounts on cryptocurrency exchanges.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "kimber72"
+        }
+      ]
+    },
+    {
+      "database": "DateHotBrunettes",
+      "infoLeak": "DateHotBrunettes is a dating network for fantasy brunettes. Around January 2021, it suffered a data breach affecting more than 1 million users. The compromised data contains email addresses, usernames, full names, IP addresses, and passwords stored as MD5 hashes.",
+      "records": [
+        {
+          "BDay": "1969-12-31 16:00:00",
+          "Email": "kimber62372@gmail.com",
+          "IP": "24.47.146.128",
+          "LoginCount": "0",
+          "NickName": "CoupleX2014",
+          "Password(MD5)": "a16205c68b23ca7536749e6d8e937944",
+          "RegDate": "2013-09-06 10:38:48"
+        },
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "kimberly1"
+        }
+      ]
+    },
+    {
+      "database": "E-mail base for free MIX",
+      "infoLeak": "A set of several dozen databases published one by one on a Telegram channel throughout 2022. It contains 62 million email addresses. Approximately 5 million of them are accompanied by plaintext passwords.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com"
+        }
+      ]
+    },
+    {
+      "database": "Exploit.In",
+      "infoLeak": "In late 2016, a huge list of email and password pairs appeared in the Exploit.In leak. The list contained 593 million unique email addresses and was used for credential stuffing.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "3OqFkyuop3D"
+        },
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "nbcourt1"
+        }
+      ]
+    },
+    {
+      "database": "Jefit",
+      "infoLeak": "In August 2020, the workout tracking application Jefit was hacked. The data was sold to the hacker community and included 9 million email addresses, IP addresses, names, and passwords in the form of vBulletin or argon2 hashes.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "IP": "174.225.136.248",
+          "LastActive(UNIX)": "1567030485",
+          "NickName": "kimber4",
+          "Password(MD5+Salt)": "374baad6cc34cabacc61a0ae0c7d07ee uh\\\"y)J`{IwQ(Zo)\u003Eg%oalHa|1WC[eV",
+          "PostsCount": "0",
+          "ProfileVisits": "0",
+          "RegDate(UNIX)": "1567030485",
+          "Reputation": "10",
+          "TimeZone": "0",
+          "Title": "New Member"
+        }
+      ]
+    },
+    {
+      "database": "JustDate",
+      "infoLeak": "An alleged breach of the dating website Justdate.com appeared online in September 2016. It included more than 24 million records containing email addresses, dates of birth, and physical locations. The data was most likely obtained from another source.",
+      "records": [
+        {
+          "BDay": "1972-06-30",
+          "CountryCode": "US",
+          "CountryIP": "US",
+          "Email": "kimber62372@gmail.com",
+          "PostCode": "07843"
+        }
+      ]
+    },
+    {
+      "database": "MeetMindful",
+      "infoLeak": "In early 2020, the online dating service MeetMindful suffered a data breach. A total of 1.4 million unique customer email addresses were exposed. The data included extensive personal information used to find romantic partners, including addresses, physical characteristics, alcohol, drug, and cigarette use, marital status, dates of birth, gender, IP addresses, and passwords stored as bcrypt hashes.",
+      "records": [
+        {
+          "BDay": "1972-06-23",
+          "City": "Roxbury Township",
+          "Country": "United States",
+          "Email": "kimber62372@gmail.com",
+          "FacebookID": "10216264955472285",
+          "FirstName": "Kim",
+          "IP": "24.191.82.11",
+          "LastActive": "2018-12-08 17:12:20",
+          "LastIP": "24.191.82.11",
+          "Latitude": "40.9054107",
+          "Longitude": "-74.6656952",
+          "NickName": "kimber62372",
+          "OS": "android",
+          "Password(bcrypt)": "$2a$10$flvNPKmlPBWhogc6lDT2OethbPHwMwIRDlxWtuvBaBG6uiX8iycCS",
+          "RegDate": "2018-11-15 11:28:12",
+          "Region": "Landing| NJ",
+          "State": "NJ",
+          "TimeZone": "America/New_York"
+        }
+      ]
+    },
+    {
+      "database": "Mindfuls.com",
+      "infoLeak": "The Mindfuls.com.zip archive, dated January 2020, was published, although the dataset's connection to the Mindfuls.com domain has not been verified. The file contains about 213 thousand records with usernames, full names, email addresses, states, cities, dates of birth, and other dates.",
+      "records": [
+        {
+          "BDay": "1972-06-23",
+          "City": "Roxbury Township",
+          "Date": "2018-12-08 17:12:20",
+          "Email": "kimber62372@gmail.com",
+          "FirstName": "Kim",
+          "NickName": "kimber62372",
+          "State": "NJ"
+        }
+      ]
+    },
+    {
+      "database": "Modern Business Solutions",
+      "infoLeak": "In October 2016, a large Mongo database file containing tens of millions of accounts was published on Twitter. The database contained more than 58 million unique email addresses, as well as IP addresses, names, home addresses, gender, job titles, dates of birth, and phone numbers. The data is attributed to Modern Business Solutions, a company providing data storage and database hosting solutions.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "acoupleofnuts  "
+        },
+        {
+          "City": "Hopatcong",
+          "Email": "kimber62372@gmail.com",
+          "FirstName": "Kim",
+          "Gender": "F",
+          "IP": "24.47.151.161",
+          "LastName": "Currie",
+          "PostCode": "7843",
+          "RegDate": "2016-07-12T15:25:06.367Z"
+        }
+      ]
+    },
+    {
+      "database": "PassionsNetwork",
+      "infoLeak": "Around January 2017, the dating website Passions Network suffered a data breach affecting 833 thousand customer records. The breach included usernames, email addresses, and passwords stored as MD5 hashes.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "NickName": "kcdc7274",
+          "Password(MD5)": "23d2c1f80416bd35d6a6aeffdc66e69e",
+          "Site": "polyamorouspassions.com"
+        }
+      ]
+    },
+    {
+      "database": "SC Daily Phone Spam List",
+      "infoLeak": "In early 2015, a spam list called SC Daily Phone appeared. It contained nearly 33 million records. The data included email addresses, names, physical and IP addresses, gender, dates of birth, and phone numbers.",
+      "records": [
+        {
+          "Address": "6004 meadowview ave",
+          "City": "north bergen",
+          "Email": "kimber62372@gmail.com",
+          "FirstName": "kim",
+          "IP": "67.83.140.24",
+          "LastName": "rivas-currie",
+          "Phone": "2014567636",
+          "PostCode": "07047",
+          "RegDate": "jun 11 2013  1:22pm",
+          "Site": "tagged",
+          "State": "nj"
+        },
+        {
+          "Address": "6004 meadowview ave",
+          "City": "north bergen",
+          "Email": "kimber62372@gmail.com",
+          "FirstName": "kim",
+          "IP": "205.231.34.29",
+          "LastName": "rivas-currie",
+          "Phone": "3132123444",
+          "PostCode": "7047",
+          "RegDate": "11/27/2013 23:22",
+          "Site": "cbsmarketwatch.com",
+          "State": "nj"
+        },
+        {
+          "Address": "6004 meadowview ave",
+          "City": "north bergen",
+          "Email": "kimber62372@gmail.com",
+          "FirstName": "kim",
+          "IP": "205.231.34.29",
+          "LastName": "rivas-currie",
+          "Phone": "3132123444",
+          "PostCode": "7047",
+          "RegDate": "7/18/2013 23:22",
+          "Site": "cbsmarketwatch.com",
+          "State": "nj"
+        },
+        {
+          "Address": "6004 meadowview ave",
+          "City": "north bergen",
+          "Email": "kimber62372@gmail.com",
+          "FirstName": "kim",
+          "IP": "205.231.34.29",
+          "LastName": "rivas-currie",
+          "Phone": "3132123444",
+          "PostCode": "7047",
+          "RegDate": "8/29/2013 23:22",
+          "Site": "cbsmarketwatch.com",
+          "State": "nj"
+        }
+      ]
+    },
+    {
+      "database": "Socradar Emails",
+      "infoLeak": "Socradar is a data leak monitoring tool. In 2024, a list of 280 million email addresses allegedly obtained from this website appeared online. The leak contains no data other than email addresses.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com "
+        }
+      ]
+    },
+    {
+      "database": "TeraBase64",
+      "infoLeak": "A huge collection of files published in February 2020 by a person using the alias @HTTSMVKCOM. It contained 3.2 billion rows with email addresses and plain-text passwords, but only 1.28 billion rows were unique. All this data was most likely obtained from numerous other leaks.",
+      "records": [
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "3oqfkyuop3d"
+        },
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "3OqFkyuop3D"
+        },
+        {
+          "Email": "kimber62372@gmail.com",
+          "Password": "acoupleofnuts"
+        }
+      ]
+    },
+    {
+      "database": "VerificationsIO",
+      "infoLeak": "In February 2019, the email verification service Verifications.io suffered a data exposure. Data in MongoDB was left publicly accessible without a password, exposing 763 million unique email addresses, phone numbers, and IP addresses. Passwords were not included.",
+      "records": [
+        {
+          "Email": "KIMBER62372@GMAIL.COM"
+        },
+        {
+          "BDay": "2018-01-19",
+          "City": "north bergen",
+          "Email": "kimber62372@gmail.com",
+          "Gender": "male",
+          "IP": "205.231.34.29",
+          "Phone": "3132123444",
+          "PostCode": "7047",
+          "Site": "cbsmarketwatch.com",
+          "State": "nj"
+        },
+        {
+          "Email": "kimber62372@gmail.com"
+        },
+        {
+          "Email": "kimber62372@gmail.com",
+          "RegDate": "2013-10-27T03:50:44.150Z"
+        }
+      ]
+    },
+    {
+      "database": "Zoosk 2011",
+      "infoLeak": "Around 2011, an alleged breach of the dating website Zoosk.com became known. The data consists of 53 million records containing email addresses and plaintext passwords. However, there is no evidence that the data was actually obtained from the Zoosk service. Zoosk later suffered another breach in 2020, affecting 24 million users.",
+      "records": [
+        {
+          "Date": "17-08-2015",
+          "Email": "kimber62372@gmail.com",
+          "NickName": "Daloose1",
+          "Password(MD5)": "2995e53b52fb10335d7e593a77f0d75e"
+        }
+      ]
+    }
+  ],
+  "raw": {
+    "List": {
+      "23 Million BTC Combos": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "3OqFkyuop3D"
+          }
+        ],
+        "InfoLeak": "In 2019, a list of email addresses and plaintext passwords was published online. The collection included 23 million records gathered from cryptocurrency-related websites. It was used to compromise accounts on cryptocurrency exchanges.",
+        "NumOfResults": 1
+      },
+      "AdultFriendFinder 2016": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com@deleted1.com",
+            "Lang": "english",
+            "LastActive": "2009-11-01 12:01:29",
+            "NickName": "rm_funcple2nite",
+            "Password(SHA1)": "AJSDK"
+          },
+          {
+            "Email": "kimber62372@gmail.com@deleted2.com",
+            "Lang": "english",
+            "LastActive": "2014-01-13 23:38:35",
+            "NickName": "rm_stillhope2",
+            "Password(SHA1)": "b36f83ef21b28dd7fab280cd4cd391357b035b9c"
+          }
+        ],
+        "InfoLeak": "In October 2016, the adult entertainment company Friend Finder suffered a massive data breach. The exposed data included names, passwords stored as SHA-1 hashes, and 170 million unique email addresses. The company had previously been hacked in May 2015, but that breach contained only 4 million records.",
+        "NumOfResults": 2
+      },
+      "Appen": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "FullName": "Kim Currie",
+            "RegDate": "2018-06-05 19:55:13.068659",
+            "SignCount": "0"
+          }
+        ],
+        "InfoLeak": "In June 2020, the AI training company Appen suffered a data breach. Data on 5.9 million users was exposed and later sold online. The data included email addresses and passwords stored as bcrypt hashes. Some records also contained employer phone numbers and IP addresses.",
+        "NumOfResults": 1
+      },
+      "BreachedForum Combolists": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "Breached.vc is the best-known website for publishing various data breaches. This database contains all files from the “Combolists” section downloaded on February 22, 2023. The section contained 2,200 databases totaling 170GB of data, or 5 billion rows. After deduplication and removal of rows from collections, only 770 million remained. The data contains only email addresses and passwords.",
+        "NumOfResults": 1
+      },
+      "Canva": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "Lang": "en",
+            "NickName": "kimber623728",
+            "RegDate": "2017-01-15 04:07:29"
+          }
+        ],
+        "InfoLeak": "In May 2019, the graphic design tool website Canva was breached. The breach affected 137 million subscribers. The exposed data included email addresses, names, cities of residence, and additional information.",
+        "NumOfResults": 1
+      },
+      "Cloudata": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "acoupleofnuts"
+          },
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "This is a large email-password data collection. The database was assembled from numerous files on May 18, 2023. Initially, all databases totaled 338 GB, or 11 billion rows. After duplicates and data from collections were removed, approximately 2 billion remained.",
+        "NumOfResults": 2
+      },
+      "Collection": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "3OqFkyuop3D"
+          },
+          {
+            "CollectionNumbers": "2,4",
+            "Email": "kimber62372@gmail.com",
+            "Password": "nbcourt1"
+          }
+        ],
+        "InfoLeak": "In January 2019, a five-part collection combining data from different websites appeared on a hacker forum. The collection contained 108 thousand files with a total size of 870 GB. These files contained 26 billion rows with an email address and password. However, many values were repeated multiple times, and there were only 4.3 billion unique pairs. Nevertheless, this collection is considered the largest leak in history.",
+        "NumOfResults": 2
+      },
+      "Collection #1": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "LeakSite": "Zoosk.com [53,782,400]",
+            "Password": "nbcourt1"
+          }
+        ],
+        "InfoLeak": "In January 2019, 5 collections combining data from numerous other leaks appeared on a popular hacker forum. This was the first collection discovered. It contained 12.300 files with a total size of 87 GB. The collection had more than 2.5 billion rows of email addresses and corresponding passwords, but only 1.25 billion unique rows. For many rows, the website where the leak occurred was specified.",
+        "NumOfResults": 1
+      },
+      "Collection #2": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "3oqfkyuop3d"
+          }
+        ],
+        "InfoLeak": "In January 2019, 5 collections combining data from numerous other leaks appeared on a popular hacker forum. This was the second collection and the largest of them all, containing 20 thousand files totaling 526 GB. These files contained 15.8 billion rows of email addresses and passwords, but only 3.2 billion unique pairs.",
+        "NumOfResults": 1
+      },
+      "Collection of 7651 databases": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "LeakSite": "mo_4",
+            "Password": "3OqFkyuop3D"
+          },
+          {
+            "Email": "kimber62372@gmail.com",
+            "LeakSite": "money 1.11.2017",
+            "Password": "3OqFkyuop3D"
+          }
+        ],
+        "InfoLeak": "In December 2022, all databases from a hacker data-trading website were released publicly. A total of 7,651 leaks were published. The data contained only email addresses and plaintext passwords, totaling 493 million records across all databases.",
+        "NumOfResults": 2
+      },
+      "CryptoArchiveNoPublik": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "kimber72"
+          }
+        ],
+        "InfoLeak": "This is a large collection of email addresses and corresponding passwords assembled in 2022 from cryptocurrency-related leaks. It contains 71 million rows and was allegedly used to compromise accounts on cryptocurrency exchanges.",
+        "NumOfResults": 1
+      },
+      "DateHotBrunettes": {
+        "Data": [
+          {
+            "BDay": "1969-12-31 16:00:00",
+            "Email": "kimber62372@gmail.com",
+            "IP": "24.47.146.128",
+            "LoginCount": "0",
+            "NickName": "CoupleX2014",
+            "Password(MD5)": "a16205c68b23ca7536749e6d8e937944",
+            "RegDate": "2013-09-06 10:38:48"
+          },
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "kimberly1"
+          }
+        ],
+        "InfoLeak": "DateHotBrunettes is a dating network for fantasy brunettes. Around January 2021, it suffered a data breach affecting more than 1 million users. The compromised data contains email addresses, usernames, full names, IP addresses, and passwords stored as MD5 hashes.",
+        "NumOfResults": 2
+      },
+      "E-mail base for free MIX": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com"
+          }
+        ],
+        "InfoLeak": "A set of several dozen databases published one by one on a Telegram channel throughout 2022. It contains 62 million email addresses. Approximately 5 million of them are accompanied by plaintext passwords.",
+        "NumOfResults": 1
+      },
+      "Exploit.In": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "3OqFkyuop3D"
+          },
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "nbcourt1"
+          }
+        ],
+        "InfoLeak": "In late 2016, a huge list of email and password pairs appeared in the Exploit.In leak. The list contained 593 million unique email addresses and was used for credential stuffing.",
+        "NumOfResults": 2
+      },
+      "Jefit": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "IP": "174.225.136.248",
+            "LastActive(UNIX)": "1567030485",
+            "NickName": "kimber4",
+            "Password(MD5+Salt)": "374baad6cc34cabacc61a0ae0c7d07ee uh\\\"y)J`{IwQ(Zo)\u003Eg%oalHa|1WC[eV",
+            "PostsCount": "0",
+            "ProfileVisits": "0",
+            "RegDate(UNIX)": "1567030485",
+            "Reputation": "10",
+            "TimeZone": "0",
+            "Title": "New Member"
+          }
+        ],
+        "InfoLeak": "In August 2020, the workout tracking application Jefit was hacked. The data was sold to the hacker community and included 9 million email addresses, IP addresses, names, and passwords in the form of vBulletin or argon2 hashes.",
+        "NumOfResults": 1
+      },
+      "JustDate": {
+        "Data": [
+          {
+            "BDay": "1972-06-30",
+            "CountryCode": "US",
+            "CountryIP": "US",
+            "Email": "kimber62372@gmail.com",
+            "PostCode": "07843"
+          }
+        ],
+        "InfoLeak": "An alleged breach of the dating website Justdate.com appeared online in September 2016. It included more than 24 million records containing email addresses, dates of birth, and physical locations. The data was most likely obtained from another source.",
+        "NumOfResults": 1
+      },
+      "MeetMindful": {
+        "Data": [
+          {
+            "BDay": "1972-06-23",
+            "City": "Roxbury Township",
+            "Country": "United States",
+            "Email": "kimber62372@gmail.com",
+            "FacebookID": "10216264955472285",
+            "FirstName": "Kim",
+            "IP": "24.191.82.11",
+            "LastActive": "2018-12-08 17:12:20",
+            "LastIP": "24.191.82.11",
+            "Latitude": "40.9054107",
+            "Longitude": "-74.6656952",
+            "NickName": "kimber62372",
+            "OS": "android",
+            "Password(bcrypt)": "$2a$10$flvNPKmlPBWhogc6lDT2OethbPHwMwIRDlxWtuvBaBG6uiX8iycCS",
+            "RegDate": "2018-11-15 11:28:12",
+            "Region": "Landing| NJ",
+            "State": "NJ",
+            "TimeZone": "America/New_York"
+          }
+        ],
+        "InfoLeak": "In early 2020, the online dating service MeetMindful suffered a data breach. A total of 1.4 million unique customer email addresses were exposed. The data included extensive personal information used to find romantic partners, including addresses, physical characteristics, alcohol, drug, and cigarette use, marital status, dates of birth, gender, IP addresses, and passwords stored as bcrypt hashes.",
+        "NumOfResults": 1
+      },
+      "Mindfuls.com": {
+        "Data": [
+          {
+            "BDay": "1972-06-23",
+            "City": "Roxbury Township",
+            "Date": "2018-12-08 17:12:20",
+            "Email": "kimber62372@gmail.com",
+            "FirstName": "Kim",
+            "NickName": "kimber62372",
+            "State": "NJ"
+          }
+        ],
+        "InfoLeak": "The Mindfuls.com.zip archive, dated January 2020, was published, although the dataset's connection to the Mindfuls.com domain has not been verified. The file contains about 213 thousand records with usernames, full names, email addresses, states, cities, dates of birth, and other dates.",
+        "NumOfResults": 1
+      },
+      "Modern Business Solutions": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "acoupleofnuts  "
+          },
+          {
+            "City": "Hopatcong",
+            "Email": "kimber62372@gmail.com",
+            "FirstName": "Kim",
+            "Gender": "F",
+            "IP": "24.47.151.161",
+            "LastName": "Currie",
+            "PostCode": "7843",
+            "RegDate": "2016-07-12T15:25:06.367Z"
+          }
+        ],
+        "InfoLeak": "In October 2016, a large Mongo database file containing tens of millions of accounts was published on Twitter. The database contained more than 58 million unique email addresses, as well as IP addresses, names, home addresses, gender, job titles, dates of birth, and phone numbers. The data is attributed to Modern Business Solutions, a company providing data storage and database hosting solutions.",
+        "NumOfResults": 2
+      },
+      "PassionsNetwork": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "NickName": "kcdc7274",
+            "Password(MD5)": "23d2c1f80416bd35d6a6aeffdc66e69e",
+            "Site": "polyamorouspassions.com"
+          }
+        ],
+        "InfoLeak": "Around January 2017, the dating website Passions Network suffered a data breach affecting 833 thousand customer records. The breach included usernames, email addresses, and passwords stored as MD5 hashes.",
+        "NumOfResults": 1
+      },
+      "SC Daily Phone Spam List": {
+        "Data": [
+          {
+            "Address": "6004 meadowview ave",
+            "City": "north bergen",
+            "Email": "kimber62372@gmail.com",
+            "FirstName": "kim",
+            "IP": "67.83.140.24",
+            "LastName": "rivas-currie",
+            "Phone": "2014567636",
+            "PostCode": "07047",
+            "RegDate": "jun 11 2013  1:22pm",
+            "Site": "tagged",
+            "State": "nj"
+          },
+          {
+            "Address": "6004 meadowview ave",
+            "City": "north bergen",
+            "Email": "kimber62372@gmail.com",
+            "FirstName": "kim",
+            "IP": "205.231.34.29",
+            "LastName": "rivas-currie",
+            "Phone": "3132123444",
+            "PostCode": "7047",
+            "RegDate": "11/27/2013 23:22",
+            "Site": "cbsmarketwatch.com",
+            "State": "nj"
+          },
+          {
+            "Address": "6004 meadowview ave",
+            "City": "north bergen",
+            "Email": "kimber62372@gmail.com",
+            "FirstName": "kim",
+            "IP": "205.231.34.29",
+            "LastName": "rivas-currie",
+            "Phone": "3132123444",
+            "PostCode": "7047",
+            "RegDate": "7/18/2013 23:22",
+            "Site": "cbsmarketwatch.com",
+            "State": "nj"
+          },
+          {
+            "Address": "6004 meadowview ave",
+            "City": "north bergen",
+            "Email": "kimber62372@gmail.com",
+            "FirstName": "kim",
+            "IP": "205.231.34.29",
+            "LastName": "rivas-currie",
+            "Phone": "3132123444",
+            "PostCode": "7047",
+            "RegDate": "8/29/2013 23:22",
+            "Site": "cbsmarketwatch.com",
+            "State": "nj"
+          }
+        ],
+        "InfoLeak": "In early 2015, a spam list called SC Daily Phone appeared. It contained nearly 33 million records. The data included email addresses, names, physical and IP addresses, gender, dates of birth, and phone numbers.",
+        "NumOfResults": 4
+      },
+      "Socradar Emails": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com "
+          }
+        ],
+        "InfoLeak": "Socradar is a data leak monitoring tool. In 2024, a list of 280 million email addresses allegedly obtained from this website appeared online. The leak contains no data other than email addresses.",
+        "NumOfResults": 1
+      },
+      "TeraBase64": {
+        "Data": [
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "3oqfkyuop3d"
+          },
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "3OqFkyuop3D"
+          },
+          {
+            "Email": "kimber62372@gmail.com",
+            "Password": "acoupleofnuts"
+          }
+        ],
+        "InfoLeak": "A huge collection of files published in February 2020 by a person using the alias @HTTSMVKCOM. It contained 3.2 billion rows with email addresses and plain-text passwords, but only 1.28 billion rows were unique. All this data was most likely obtained from numerous other leaks.",
+        "NumOfResults": 3
+      },
+      "VerificationsIO": {
+        "Data": [
+          {
+            "Email": "KIMBER62372@GMAIL.COM"
+          },
+          {
+            "BDay": "2018-01-19",
+            "City": "north bergen",
+            "Email": "kimber62372@gmail.com",
+            "Gender": "male",
+            "IP": "205.231.34.29",
+            "Phone": "3132123444",
+            "PostCode": "7047",
+            "Site": "cbsmarketwatch.com",
+            "State": "nj"
+          },
+          {
+            "Email": "kimber62372@gmail.com"
+          },
+          {
+            "Email": "kimber62372@gmail.com",
+            "RegDate": "2013-10-27T03:50:44.150Z"
+          }
+        ],
+        "InfoLeak": "In February 2019, the email verification service Verifications.io suffered a data exposure. Data in MongoDB was left publicly accessible without a password, exposing 763 million unique email addresses, phone numbers, and IP addresses. Passwords were not included.",
+        "NumOfResults": 4
+      },
+      "Zoosk 2011": {
+        "Data": [
+          {
+            "Date": "17-08-2015",
+            "Email": "kimber62372@gmail.com",
+            "NickName": "Daloose1",
+            "Password(MD5)": "2995e53b52fb10335d7e593a77f0d75e"
+          }
+        ],
+        "InfoLeak": "Around 2011, an alleged breach of the dating website Zoosk.com became known. The data consists of 53 million records containing email addresses and plaintext passwords. However, there is no evidence that the data was actually obtained from the Zoosk service. Zoosk later suffered another breach in 2020, affecting 24 million users.",
+        "NumOfResults": 1
+      }
+    },
+    "NumOfDatabase": 25,
+    "NumOfResults": 40,
+    "price": 0.003,
+    "search time": 0.0156131
+  }
