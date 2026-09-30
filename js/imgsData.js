@@ -31,6 +31,9 @@ const IMG_TREE = {
     'jacobcurrie.txt': null,
     'ghoulz1234.txt': null,
     'currie06.txt': null,
+    'mom_aol.txt': null,
+    'optonline.txt': null,
+    'sbcglobal_dad.txt': null,
   },
   profit: {
     'profitface.png': null,
